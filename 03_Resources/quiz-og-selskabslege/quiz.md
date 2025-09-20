@@ -1,0 +1,4 @@
+- Gæt en sang ud fra oversat tekst. 
+	- Oversæt via Google translate 
+	- Når tekster oversættes af mange omgange ændres teksten væsentligt
+- 

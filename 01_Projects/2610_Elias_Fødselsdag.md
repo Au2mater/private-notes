@@ -1,0 +1,11 @@
+## Begivenheder 
+- Med Carolines familie 
+	- Morgen fødselsdagsboller 
+	- Elias Quiz 
+	- Ude aktivitet (By Oasen? )
+- Med min familie 
+	- Elias Quiz 
+- Med firældregeuppen (hos Oli og Louise? )
+- Mulige datoer 
+	- søndag 7. 14.,  21. September 
+	- Lør 4. Og søn 5. Oktober 

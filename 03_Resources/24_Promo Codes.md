@@ -1,0 +1,28 @@
+---
+aliases:
+  - Rabatkoder
+  - Discount
+  - Vouchers
+---
+
+- Nextory: 45 dage 
+	- link: nextory.dk/babybox23
+- BookBeat: 60 dage 
+	- kode: babybox 
+	- link: bookbeat.dk/babybox
+- HelloFresh: 1041 kr på første 4 kasser
+	- link: hellofresh.dk
+	- kode: BABYSAM
+- Kære Børn: 10 %
+	- www.kaereboern.dk
+	- kode: 2877ggmv73
+- Vivobarefoot. 20%
+	- https://www.vivobarefoot.com
+	- kode: STRENGTHSIDE
+- Vivobarefoot: 15%
+	- https://vivobarefoot.mention-me.com/m/ol/nd7wn-ben-vallack
+- SATS : 22% og Gratis Oprettelse 
+	- 400p1539
+- Lems: 10% på første ordre
+	- WELCOMEGK8R6BP7
+	- [[2025-04-16]]: Welcome10% 

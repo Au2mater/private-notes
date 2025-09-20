@@ -1,0 +1,29 @@
+- [Gulerodsboller](https://livsstil.tv2.dk/mad/opskrift/de-nemmeste-og-sproedeste-gulerodsboller) ^7e6f47
+- Kyllingeboller med hoisinsauce 3 pers
+	- Hakket kylling 400 g
+	- Hoisinsauce (Soja, Sesamfrø) 4+8 tsk
+	- Hvidløg 2 fed
+- Burger 
+	- Sesam eller kartoffel bolle smørristet på indersiden 
+	- Oksekød 25% fedt som 2x tynd flad "smash patty" grilled/stegt med thin sliced onion  
+	- 2x American cheese eller cheddar smeltet ovenpå hver burger 
+	- Syltede agurker 
+- Pandekager til morgenmad 
+	- https://www.arla.dk/opskrifter/pandekager/
+	- Dej klar aftenen før 
+	- Stej på 10
+- Carolines Kyllinge Frikadeller
+	- 350 g hakket kylling 
+	- 1 spsk Hvedemel 
+	- 1 æg 
+	- 1 tsk tørrede timiam 
+	- 1 spsk yoghurt
+	- salt og peber 
+- Opskrift på bananpandekager
+	- En moden banan
+	- Et æg
+	- En halv teske bagepulver
+	- En halv deciliter havregryn
+	- To tredjedele deciliter hvedemel
+	- Eventuelt kardemomme eller vanilje pulver 
+	- Bananen Moses og ingredienserne blandes. Steg i smør. Opskriften giver cirka fem små pandekager.

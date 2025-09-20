@@ -1,0 +1,4 @@
+---
+sidste kontakt: ""
+aliases:
+---

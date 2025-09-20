@@ -1,0 +1,30 @@
+- Fremvisning af Gladsaxes of MyGPTs
+	- Blev for store 
+	- For stor et arbejde at stå for det hele
+	- Start forfra
+- Der er andre der gjort, men der er så mange måder at gør det på. 
+- Vision: 
+	- Fokus på oplevelsen.
+	- Fokus på dansk sprog og kontekst. 
+	- Skabe og teste et galleri nye chat oplevelser med udgangspunkt i sprogmodeller 
+	- "Offentligt" tilgængelig, giv andre mulighed for at teste det og lege med det og bygge videre baseret på feedback.
+	- Både brugbare løsninger, men også noget upraktisk, overraskende og legende
+- Tanker omkring oplevelsen
+	- Proaktiv: starts the conversation and writes again when nothing has been said for a while 
+	- Visual: changes color, uses emojis etc ...
+	- Personlig og evolverende, kan huske og bruge viden fra tidligere samtaler med en (eller flere) brugeren.
+		- Glemmer når samtalen eller beskeder slettes fra historik. 
+- Tanker omkring samarbejdet mellem backend og UI 
+	- FastUI Framework
+	- Microservices tilgang
+- Tanker omkring deling og tilgængelig af de services ci udvikler 
+- LLM specific UI elements
+	- Context 
+	- Question suggestion 
+	- LLM controlled elemmets 
+	- Multiple conversations 
+- [[New_Chat_Architecture|Brainstorm omkring app ariktekturen]]
+- Tanker omkring oprettelse af chatbots:
+	- Assistenten får karaktertræk baseret "fødsesridspunkt" og stjernegn
+	- Brugere kan vælge nogle karaktertræk når de skaber en assistent ligesom Create a sim i the Sims.
+	- Tag udgangpunkt i profiler for kendte forstårlige personligheder. Det kunne evt være med refrence til kendte . 

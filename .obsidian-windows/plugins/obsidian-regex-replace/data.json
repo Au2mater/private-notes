@@ -1,0 +1,10 @@
+{
+  "findText": "2508_AITolk_SSH",
+  "replaceText": "2508_AITolk_Simply",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": true
+}

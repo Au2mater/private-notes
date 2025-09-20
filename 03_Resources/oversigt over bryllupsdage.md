@@ -1,0 +1,37 @@
+- 0 år: Bryllup
+- 1 år: Papirbryllup
+- 2 år: Bomuldsbryllup
+- 3 år: Læderbryllup
+- 4 år: Blomsterbryllup eller Hyacintbryllup
+- 5 år: Træbryllup
+- 6 år: Sukkerbryllup
+- 7 år: Uldbryllup
+- 8 år: Bronzebryllup
+- 9 år: Pilbryllup eller Stråbryllup
+- 10 år: Tinbryllup
+- 11 år: Stålbryllup eller Ravbryllup
+- 12 år: Silkebryllup
+- 12 1/2 år: Kobberbryllup
+- 13 år: Kniplingsbryllup
+- 14 år: Elfenbensbryllup
+- 15 år: Krystalbryllup
+- 16 år: Månebryllup
+- 17 år: Ametystbryllup
+- 18 år: Margueritbryllup
+- 19 år: Granatbryllup
+- 20 år: Porcelænsbryllup
+- 21 år: Turkisbryllup
+- 22 år: Alliancebryllup
+- 23 år: Tulipanbryllup
+- 24 år: Karatbryllup
+- 25 år: Sølvbryllup
+- 30 år: Perlebryllup
+- 35 år: Koralbryllup
+- 40 år: Rubinbryllup
+- 45 år: Safirbryllup
+- 50 år: Guldbryllup
+- 55 år: Smaragdbryllup
+- 60 år: Diamantbryllup
+- 65 år: Krondiamantbryllup
+- 70 år: Jernbryllup
+- 75 år: Kronjuvelbryllup, Atombryllup eller Stålbryllup

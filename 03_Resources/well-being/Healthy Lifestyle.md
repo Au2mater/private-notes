@@ -1,0 +1,127 @@
+## Goals
+### Promote
+- Dopamine
+- Testosterone
+	- Mood, Physical Performance and Health
+- Build muscle
+- Good Sleep 
+- Energy and Stable blood sugar
+- Good mood and healthy brain
+#### Prevent
+- Acid Reflux
+- Overweight
+- Constipation
+- Bad dental health
+- Joint Pain
+
+## Method 
+### Avoid
+- Red meat [[Why Reduce Red Meat Intake|Why?]]
+- Alcohol [[Why Go Sober|Why? ]]
+- Caffeine [[Why Quit Caffeine|Why?]]
+- Nicotine
+- Sugar
+- Simple carbs (white bread, pasta, white rice)
+- Sedentary lifestyle
+- More than 30 Minute steady state cardio 
+- Salt? 
+
+#### Consume
+- 6 Vegetables daily 🍆🍅🥕🫑🥒
+	- Mindst halvdelen skal være grøntsager
+	- Kartofler og Svampe Tæller ikke ❌
+	- G: Løg, Kål, broccoli 🥦 Blomkål, Ærter, Bønner  Gulerødder 🥕 Peberfrugt tæller
+	- Råt er bedre end tilberedt
+	- [Årstidens Grøntager](https://foedevarestyrelsen.dk/publikationer/2024/plakater-med-saesonens-frugt-og-groent)
+	- Fibre i grøntsager forebygger hæmorider 
+	- Kulhydrater er vigtige for tarmfloraen 
+- Fatty Fish twice a week 🐠
+	- Omega 3
+	- Protein
+	- Healthy fat
+- >=25% Calories from fat 
+	- Increase Testosterone 
+-   Protein 1.25–1.9 g/kg/day
+	- Spaced out over all meals 
+	- At least 0.8 g/kg/day
+	- No more than 3.4 g/kg/day, as a very hight protein diet decreases resting testosterone 
+- Whole grain
+	- Prevents Colorectal cancer
+	- Stable blood sugar
+	- Fullness
+- Vitamin-D3
+	- Supplement Everyday
+	- Essential for Testosterone
+	- Deffeciancy causes fatique and weeker bones 
+- Zinc Gluconate  / Citrate 
+	- 11-15 mg daily 
+	- Less than 35 mg 
+	- 8 mg from supplement 1 hour before or 2 hours after a meal
+	- Essential for Testosterone
+	- Essential for good sleep
+	- Body can't store zinc
+- Magnesium
+- Melatonin from eggs, milk, fish and nuts
+	- Better sleep 
+- B12 supplement? 
+- Tryptophan (Essential Amino Acid)
+	- Better sleep [Diet and sleep](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7230229/ )
+	- Dairy, Fish, Eggs 
+- Water soluble vitamins through diet daily 
+	- B1 | 1.2 | Oats / 70 G Sunflower seeds, 70 g flax seeds |
+	- B2 | 1.3 | 120g Almonds, 6 eggs, Broccoli, 500g Greek yogurt | 
+	-  B3 | 15 (<30) | 125g Peanuts / 200g Sunflower seeds, 100g chicken breast, 150 g tuna, 
+	- B5 | 5 | 75g Sunflower Seeds / Eggs , 300g chicken breast 
+	- B6 | 1.3 | 100 g Sunflower Seeds, Salmon / Tuna 
+	- B7 | 30 mcg | Fish, 3 eggs, dairy, 175g peanuts, 200 g sunflower seeds, 
+	- B9 |  400 mcg | 170 g Peanuts, 170 g sunflower seeds, edamame 
+	- C | 90 | fruits and vegetables 
+- Water (3.7L)  > 3 L from drinks[[Why drink water]]
+- Creatine Monohydrate 
+	- Avoid Chinese creatine due to heavy metal and impurities 
+	- Better anaerobic performance
+	- Better brain health 
+- Adaptogenic Herbs? 
+	- fenugreek seed extracts
+		- øger creatine optagelse
+	- ashwagandha root? 
+		- 300 MG for a month is shown to be safe 
+		- 500 mg to gange om dagen
+		- https://morethanhealth.dk/products/ashwagandha-ksm-66-ultimative-ashwagandha-250-mg-ekstrakt-60-kapsler
+	- Asian red ginseng
+	- forskohlii root extract.
+- Herbs 
+	- curcumin (Tumeric) 
+		- with peperine ( black pepper) for bio availability 
+		- with fats for dissolving (Olive oil)
+		- anti inflammatory 
+		- anti oxidant 
+	- beetroot
+	- ginger? 
+
+#### Exercise
+- 300 intensity minutes 
+	- 75 (x2) minutes vigorous-intensity Excercise 
+	- 150 min of moderate-intensity aerobic exercise, per week
+	- [WHO Guidelines](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7719906/) .
+- Regular muscle strengthning excercise
+	- Boost Testosterone 
+	- Build muscle mass 
+	- Maintain normal weight
+- HIIT exercise
+	- improve maximal oxygen uptake, aerobic endurance, anaerobic capacity  
+	- Sprint
+		- 3x 30 sekunder cykel maks sprint nedregulerer apetit mange timer efter endt træning 
+		- Builds muscle
+- Intermittent fasting? 
+	- 16-8 Eat only between 11 and 18
+### Use
+- Earplugs
+	- Promote sleep and melatonin 
+- Finish Sauna
+	- No adverse effects aside from reversable temporary reduced sperm quality
+	- Better mental health 
+	- Better cardiovascular health 
+- Cold Showers
+	- Nedsat sygefravær
+	- May relief symptoms of depression

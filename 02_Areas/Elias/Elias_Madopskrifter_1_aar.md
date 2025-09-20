@@ -1,0 +1,13 @@
+Ideer og opskrifter til mad og grød som Elias kan spise 
+- ~~[Majsgrød](https://www.nikate.dk/madopskrifter/majsgroed-til-baby/) 
+- Bolognaise grød (købt) 
+- Linsegrøntsagsgrød (købt)
+- [Øllebrød](https://forstadsmor.dk/2021/04/27/oellebroed-4-mdr/) 
+	- 2 skiver bondebrød hakket i tern 
+	- 1,5? dl kold vand 
+	- Opskrift:
+		- Læg brødet i blød i det kolde vand i 15 minutter 
+		- Kog det herefter op i 5-7 minutter 
+		- Pisk til en grød konsistens 
+	- Server med en klat smør og evt yogurt eller æblemost
+- Kartoffelærte grød 

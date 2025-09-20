@@ -1,0 +1,17 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "mål": "text",
+    "deadline": "date",
+    "urgency_threshold": "number",
+    "next_deadline": "date",
+    "sd": "multitext",
+    "kendt_siden": "date",
+    "fælles_bekendte": "multitext",
+    "afstand_km": "number",
+    "fødselsdag": "date",
+    "important": "checkbox"
+  }
+}

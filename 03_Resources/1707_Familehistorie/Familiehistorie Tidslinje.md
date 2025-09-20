@@ -1,0 +1,38 @@
+- 1948- Den palæstinensiske eksodus
+- 1948 – Ibrahim Balkiss og hans hustru Amina flygter fra Palæstina til Libanon grundet krig
+- 1965 – Mahmoud Balkiss bliver født i [Bourj el-Barajneh](https://en.wikipedia.org/wiki/Bourj_el-Barajneh) – Beirut- Libanon som bror til 4 søskende
+- 1975-1990 - Den libanesiske borgerkrig
+	- 1982 - [Massakren i Sabra og Shatila](https://da.wikipedia.org/wiki/Massakren_i_Sabra_og_Shatila)
+	- 1985 – Flygtningelejrkrigen
+	- 1986 - Mahmouds eneste bror, Mohammad, gift og med 6 børn, går bort ved skudepisode under borgerkrigen
+	- Mohammads hustru flygter til  Syrien med hendes 3 drengebørn
+	- 1986/7 – Mahmoud kommer til Denmark og søger asyl med sin ven
+	- 1989 - Y Mahmoud Balkiss og Safaa Hamdan bliver gift i Libanon
+
+- 1991 - Mohammad Balkiss bliver født som første barn i Frederikssund - Danmark
+- 1992 - Ahmad Balkiss bliver født i Frederikssund - Danmark
+
+- Familien Balkiss flytter til en lejlighed I Taastrup med en husstand på 8 personer bestående af forældrene, deres to drengebørn, Safaas lillesøster og Mahmouds tre niecer
+- 1994? – Sajida Balkiss bliver født i Taastrup -  Danmark
+- 1997? – l Sajida Balkiss går bort efter en længere sygedomsforløb med kræft
+- 1999 - Safaas lillesøster og Mahmouds tre niecer er med tiden blevet gift og flyttet ud
+- 2000 – Sarah Balkiss bliver født i Taastrup - Danmark
+- Familien Balkiss rejser til Aramoun - Libanon
+- 2003? – Ibrahim Balkiss bliver født i Taastrup – Danmark i mens familien er på feriebesøg
+- 2006 – Libanonkrigen
+- 2006 - Familien er på ferie i Danmark men rejser ikke tilbage grundet krigen
+- Ahmad starter I 9. klasse I Roskilde og Mohammad på Ishøj Amts Gymnasium
+- 2007 - Ahmad Balkiss starter på Ishøj Amts Gymnasium
+- 2009 - Mohammad Balkiss (1990) dimitterer fra Ishøj Amts Gymnasium
+- Mohammad Balkiss(1990) begynder med at studere Farmaci på Københavns Universitet
+- 2010 - Ahmad Balkiss dimitterer fra Ishøj Gymnasium og begynder som receptionist i fitness dk
+- 2011 - Ahmad Balkiss begynder at studere Folkesundhedsvidenskab på Københavns Universitet
+- Forældrene Mahmoud og Safaa H. flytter tilbage til Saida – Libanon med børnene Sarah og Ibrahim. Mohammad og Ahmad bliver boende i Taastrup - Danmark
+- 2011 – Syrienkrigen og den arabiske forår
+- 2012 - Mohammad Balkiss bliver gift med Mona Ismail og flytter til Brønshøj
+- 2015 - Brødrene Ahmad og Mohammad forsøger forgæves at få deres to yngre søskende tilbage til Danmark
+- Ahmad flytter fra Taastrup til et midre bofælleskab i København efter en måned som boligløs og dropper senere ud af universitetet
+- 2016 - Amira Balkiss bliver født til Mohammad Balkiss
+- Ahmad Balkiss siger jobbet op i fitness dk efter 6 år, begynder at arbejde for DIS, flytter i den sammenhæng til en arbejdsbolig i København og genoptager sine studier på Københavns Universitet
+- 2017 - Mohammad Balkiss dimitterer fra DTU med en professionbachelor som biokemi enginiør
+- Under feriebesøg i Danmark overleverer forældrene lejelejligheden I Taastrup efter 25 år, og får tildelt en ny lejebolig I Rødovre

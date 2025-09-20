@@ -1,0 +1,4 @@
+- [innovationsfonden Innofounder](https://innovationsfonden.dk/da/p/innofounder)
+	- 100 k  + et års løn ( 27.000 kr pr md )
+	- Næste ansøgningsrunde 13. august 2024.
+- Innobooster: 50 k - 1 mio

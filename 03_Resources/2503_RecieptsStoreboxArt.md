@@ -1,0 +1,6 @@
+- [ ] Check [DALL.E 3](https://platform.openai.com/docs/guides/image-generation#dall-e-3-prompting) `response.revised_prompt`and add it to the json file
+- [ ] Try DALL.E 2 [edits / inpainting](https://platform.openai.com/docs/guides/image-generation#edits-dall-e-2-only) 
+	- with a standard white backrground / surface 
+		- this will ensure the  background is exactly the same
+		- and the object size is more uniform
+-  [Bigjpg - AI Super-Resolution lossless image enlarging / upscaling tool using Deep Convolutional Neural Networks](https://bigjpg.com/)

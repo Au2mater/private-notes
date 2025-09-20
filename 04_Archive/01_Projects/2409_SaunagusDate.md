@@ -1,0 +1,11 @@
+
+- Rentemestervej 64
+- https://sauna85.yogo.dk/frontend/index.html?clientWebsiteReferrerUrl=https%3A%2F%2Fwww.sauna85.dk%2F#/schedule
+- 5. Oktober 
+- Program 
+	- 11:00 Frokost
+	- 12:00 - 13:15 Gus 
+	- 13:30 - 13:45 Gus 
+- Spisesteder
+	- Kaffe department 
+	- Flere fugle

@@ -1,0 +1,14 @@
+---
+aliases:
+  - Atomic Habits
+---
+- How to make a good habit 
+	- Cue: Make it obvious/visible
+	- Craving: ... attractive
+	- Response: ... easy
+	- Reward: ... satisfying
+- How to break a bad habit:
+	- Cue: Make it invisible
+	- Craving: ... ugly
+	- Reponse: ... hard
+	- Reward: ... annoying

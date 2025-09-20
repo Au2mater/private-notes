@@ -1,0 +1,41 @@
+---
+tags:
+  - "#📅"
+---
+## Hvordan ser dagen ud? (aftaler)
+
+
+## Hvad vil jeg gerne opnå i dag ?
+
+
+## Hvordan gik dagen?
+- oplader: 
+	- lader den op?
+	- er der skader på den?
+- batteri tilstand 
+	- Lenovo Vantage
+	- CMD.EXE ADMIN: powercfg/batteryreport
+	- > 4:04:29-5:14:43
+- Er specs svarende til det der står 
+	- i5 11 
+	- 16 GB ram 
+	- 500 SSD 
+- wifi 
+- Keyboard: 
+	- [Keyboard Tester](https://www.keyboardtester.com/tester.html)
+	- [Keyboard Test: Check Your Keys — Ratatype](https://www.ratatype.com/keyboard-test/)
+- Touchpad:
+- skærm (pixels):
+	- [EIZO monitors for offices, photos & design, medicine, gaming and industry](https://www.eizo.be/monitor-test/)
+- USB porte, virker alle 
+- Webcam 
+- lyd 
+- mic 
+	- [Microphone Tester \| CodersTool](https://www.coderstool.com/microphone-tester)
+- No BIOS password
+	- Enter - F1
+	- Serting - recovery - advanced startup 
+- No computrace
+	- BIOS
+	- Menu Security - Anti-Theft - Computrace
+	- Menu Retsart - Exit Saving Changes 

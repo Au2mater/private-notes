@@ -1,0 +1,4 @@
+- Reduces risk of musculoskeletal injury (Berning and Steen, 1991) 
+- Improves cardiovascular health 
+- Reduces risk og constipation and thus [[Hemmorroids]] 
+- Dehydration negatively impacts hair growth 

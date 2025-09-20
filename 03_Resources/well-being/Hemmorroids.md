@@ -1,0 +1,11 @@
+- Preventitive lifestyle 
+	- Drink your water 
+	- Eat your fibers and veggies 
+	- Squat while popping 
+	- Excercise 
+	- Do not take your phone to the toilet, sit on the toilet shortly 
+- Support the healing of an inflamed hemorrhoid
+	- Do not use toilet paper 
+	- Take a break from squatting Excercise 
+	- Bruge salve til smerte lindring
+

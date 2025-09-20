@@ -1,0 +1,13 @@
+- Jeg har fået en mulighed for at starte i en ny stilling i DIA
+	- **Udvikling og drift af AI-løsninger**
+	- **Indflydelse på organisationens digitale strategi**
+- Det er ikke et fravalg af DAFO
+	- Jeg har været rigtig glad for at være der 
+	- Og synes virkelig at jeg udviklet mig i den tid
+- Hvorfor?
+	- Som du ved har jeg været rigtig glad for de opgaver og den roll som jeg havde inden jeg gik på barsel 
+	- Denne her stilling er en naturlig forlængelse af den rolle.
+- Justering af **ansættelsesdato** 
+	- Som udgangspunkt ansættes du pr. 1. feb. 2025,
+	- Der er dog mulighed for, at vi kan aftale en anden ansættelsesdato i dialogen med mig og Mads.
+- Koordinering af hvornår dit skift kan meldes ud i de to afdelinger samt evt. justering af ansættelsesdato.

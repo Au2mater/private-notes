@@ -1,0 +1,642 @@
+---
+title: "AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference: Narayanan, Arvind, Kapoor, Sayash: 9780691249131: Amazon.com: Books"
+source: https://www.amazon.com/Snake-Oil-Artificial-Intelligence-Difference/dp/069124913X
+author: 
+published: 
+created: 2024-12-01
+description: "AI Snake Oil: What Artificial Intelligence Can Do, What It Can’t, and How to Tell the Difference [Narayanan, Arvind, Kapoor, Sayash]"
+tags:
+  - clippings
+---
+
+Embracing Randomness
+2025-01-22 13:51  |  Page No.: 339
+partial lotteries make random- relevant for FSVere
+- god som katalog til konrete ai løsninger
+
+
+- Overseers of automated decisions need the time skills, freedom and the right incentives to challenge these decisions
+[[AI Snake Oil What Artificia_ (Z-Library)_2024_12_16_183226.png]]
+
+### Takeaways 
+- Stop saying Ai? 
+- 
+### Highlights
+Reading Notes | <<AI Snake Oil What Artificia_ (Z-Library)>>Arvind Narayanan
+Painting AI with a Single Brush Is Tempting but Flawed
+2024-11-07 20:52  |  Page No.: 29
+“AI is whatever hasn’t been done yet.”
+
+2024-11-07 20:51  |  Page No.: 29
+Robot vacuum cleaners like the Roomba. Autopilot in planes. Autocomplete on our phones. Handwriting recognition. Speech recognition. Spam filtering. Spell-check.
+
+What Is AI Snake Oil?
+2024-11-07 21:13  |  Page No.: 45
+ AISnakeOil.com
+
+
+2024-11-08 16:16  |  Page No.: 54
+concerns about AI, especially in the labor market, are often really about capitalism
+
+2024-11-08 16:21  |  Page No.: 55
+this type of AI relies on the invisible, drudging, low-wage work of millions of people to create training data, as well as the use of data found on the web without credit or compensation to the writers, artists, and photographers who created them
+
+2024-11-17 09:00  |  Page No.: 61
+This is what we call predictive AI: models used for decision-making based on predictions about the future, such as who will do well at a job or who will pay back a loan.
+
+2024-11-17 09:02  |  Page No.: 62
+==COMPAS==, which stands for Correctional Offender Management Profiling for Alternative Sanctions. COMPAS relies on defendants’ answers to 137 questions
+
+2024-11-17 09:21  |  Page No.: 63
+COMPAS aim to predict if a defendant will fail to appear in court or be arrestedfor a crime within two years
+
+2024-11-17 09:22  |  Page No.: 63
+an assumption built into much ofpredictive AI: people with similar characteristics will behave similarly in the future
+
+Predictive AI Makes Life-Altering Decisions
+2024-11-17 09:27  |  Page No.: 64
+Upstart’s model decides whether an applicant should be approved for a loan.13 
+
+2024-11-17 09:28  |  Page No.: 64
+HireVue sells tools to automate hiring decisions
+
+2024-11-17 09:30  |  Page No.: 64
+we cannot guarantee that thedecisions will be unbiased or fair.14 In other words,decisions made using predictive AI may still be very human.
+
+2024-11-17 09:31  |  Page No.: 64
+We were skeptical of the promises made by developers of predictive AI
+
+A Good Prediction Is Not a Good Decision
+2024-11-17 09:31  |  Page No.: 65
+We think predictive AI falls far short ofthe claims made by its developers.
+
+2024-11-17 09:45  |  Page No.: 65
+whether to send the patient home after treatment or admit them overnight
+
+2024-11-17 09:54  |  Page No.: 66
+because the training data was collected under the hospital’s preexisting decision-making system.15 Asthmatic patients were sent straight to the ICU as soon as they arrived, thereby receiving more intensive care than non-asthmatic patients and thus becoming less likely to develop complications.
+
+2024-11-17 09:58  |  Page No.: 67
+This issue arose in part because the researchers relied on existing data rather than new data collected specifically for the task
+
+2024-11-17 10:00  |  Page No.: 68
+.
+Unfortunately, predictive AI companies don’t seem to have realized the importance of collecting data on the impact of their tools’ decisions
+
+Opaque AI Incentivizes Gaming
+2024-11-17 10:02  |  Page No.: 68
+when you encounter claims about the effectiveness of predictive AI, it’s important to find out if developers evaluated the impact of the decisions or only the accuracy on past data
+
+2024-11-17 10:08  |  Page No.: 70
+simple changes to a person’s appearance, such as wearing a scarf or glasses, were enough to drastically change the score that the AI tool produced
+
+2024-11-17 10:12  |  Page No.: 70
+merely changing the format of candidates’ résumé from PDF to plain text changed their personality scores
+
+2024-11-17 10:14  |  Page No.: 71
+with AI-based hiring, people don’t even know what actions influence their chances
+
+2024-11-17 10:14  |  Page No.: 71
+Instead of guiding candidates toward decisions that actually improve their skills, AI-based hiring encourages candidates to experiment with superficial changes
+
+Overautomation
+2024-11-17 10:19  |  Page No.: 71
+when AI companies make claims about accuracy, they fail to account for the effects of people behaving strategically
+
+2024-11-17 10:21  |  Page No.: 72
+This shift to an automated system had many adverse effects. For one, people lost the ability to challenge decisions
+
+2024-11-17 10:21  |  Page No.: 72
+the data used to make these allegations was not publicly available, so people had no way to find out why they’d been accused of fraud
+
+2024-11-17 10:25  |  Page No.: 72
+the algorithm used nationality to predict if someone had committed fraud. All else being equal, people were more likely to be flagged for fraud if they had Turkish, Moroccan, or Eastern European national
+
+2024-11-17 10:28  |  Page No.: 73
+Journalists later found that the supposed overseers never changed the decisions that the software spit out
+
+
+2024-11-17 10:58  |  Page No.: 74
+The bureaucrats in charge may be overworked, or may not have the training to challenge the automated decisions or the incentive to stick their necks out to do so.
+
+2024-11-17 11:02  |  Page No.: 74
+overreliance on automated decisions (also known as “automation bias”)
+
+2024-11-17 11:01  |  Page No.: 75
+Ohio Risk Assessment System (ORAS) and the Public Safety Assessment (PSA). Similar to COMPAS, both attempt to predict the risk of releasing a defendant before trial
+
+2024-11-17 11:08  |  Page No.: 76
+Thousands of defendants were unnecessarily jailed for months before trial—based only on a model’s prediction, without any evidence of their guilt.36
+
+2024-11-17 11:12  |  Page No.: 76
+The tool relies on public welfare data, which consists mainly of data on poorer parents who use public services such as Medicaid-funded clinics. Notably, it doesn’t include information about people who use private insurance
+
+2024-11-17 11:28  |  Page No.: 77
+AI tools search under the streetlight. More often than not, the streetlight is pointed at the poor.
+
+2024-11-17 11:37  |  Page No.: 79
+Optum’s predictive AI would mean that people who were already receiving better healthcare would be more likely to be classified as high risk and continue to receive better care in the future.
+
+2024-11-17 11:39  |  Page No.: 79
+Even after this damning study was published, the company continued using healthcare costs to build its model.
+
+2024-11-17 11:39  |  Page No.: 79
+Business incentives are one of many reasons predictive AI increases inequality. Another is developers’ reliance on past data.
+
+2024-11-17 11:44  |  Page No.: 82
+they can’t stand the thought of the alternative tothis way of decision-making—that is, acknowledging that the future cannot be predicted
+
+2024-11-17 11:47  |  Page No.: 83
+the discomfort we experience with randomness can lead to a search for patterns where none exist
+
+2024-11-17 11:48  |  Page No.: 83
+we need to work on building institutions thatare genuinely open to the fact that the past doesn’t predict the future. Such a world is possible—if only we canlearn to embrace the randomness that underpins our lives.
+
+2024-11-17 11:51  |  Page No.: 84
+A good prediction can result in a bad decision.
+
+2024-11-17 11:51  |  Page No.: 84
+People can strategically game opaque AI.
+
+2024-11-17 11:51  |  Page No.: 84
+Users over-rely on AI without adequate oversight 
+
+2024-11-17 11:51  |  Page No.: 85
+Data for training AI maycome from a different population than the one it is used on.
+
+2024-11-17 11:51  |  Page No.: 85
+Predictive AI can increase inequality
+
+2024-12-14 11:15  |  Page No.: 93
+Broadly speaking, machine learning is more suited for predicting things about individuals whereas simulation is more suited for predicting collective or global outcomes
+
+2024-12-14 11:28  |  Page No.: 94
+Despite the widespread use of computational predictions in social settings, you might be surprised to learn that there’s remarkably little published evidence of their effectiveness
+
+2024-12-14 11:31  |  Page No.: 95
+We can certainly predict some social phenomena reasonably well, like the amount of traffic on a route, or how busy a store would be on a certain day.17,18 
+
+2024-12-14 11:47  |  Page No.: 95
+we can’t directly compare how good a prediction in one area is to a prediction in another area
+
+2024-12-14 11:49  |  Page No.: 96
+we only care about how good a prediction is in relation to what can be done using that prediction.
+
+2024-12-14 11:50  |  Page No.: 96
+For example, our ability to predict earthquakes is excellent—if the goal is to identify high-risk zones that need to have stringent building codes.19 But if the goal is to identify when an evacuation needs to take place because of an imminent earthquake, our prediction ability is basically nonexistent
+
+2024-12-14 11:55  |  Page No.: 97
+when we say life outcomes are hard to predict, we are using a combination of these three criteria: real-world utility, moral legitimacy, and irreducible error, that is, error that won’t go away with more data and better computational methods.
+
+The Fragile Families Challenge
+2024-12-14 13:33  |  Page No.: 99
+the models researchers used would perform well for peo ple whose information was included in the dataset used to train the model, but not on couples whose information wasn’t in the dataset
+
+
+2024-12-14 15:59  |  Page No.: 104
+tasks where AI seems to work well, such as classifying what’s in an image
+
+2024-12-14 16:00  |  Page No.: 104
+No model can predict if someone might win a lottery or get hit by a car, for instance.
+
+2024-12-14 16:01  |  Page No.: 105
+Much more common than large shocks are small initial advantages that are compounded over time
+
+2024-12-14 16:01  |  Page No.: 105
+The difficulty of measuring these small differences leads to higher irreducible errors in predictions
+
+2024-12-14 16:03  |  Page No.: 106
+the eight billion problem: What if we can’t make accurate predictions because there aren’t enough people on Earth to learn all the patterns that exist?
+
+2024-12-14 16:08  |  Page No.: 107
+at the end of the day, making predictions about people’s life outcomes is too risky, reputationally and legally, for tech companies
+
+2024-12-14 17:07  |  Page No.: 110
+To some extent, COMPAS is just predicting the biases of policing.
+
+2024-12-14 17:37  |  Page No.: 111
+evidence suggests that if anything, luck plays an even bigger role in success than in failure
+
+2024-12-14 17:51  |  Page No.: 117
+rich-get-richer effect
+
+2024-12-14 20:25  |  Page No.: 123
+the exciting prospect for AI is being able to predict elections, wars, pandemics, and so forth—the things that really affect our lives. And here things don’t look so good
+
+2024-12-14 20:31  |  Page No.: 125
+we think the right way to answer this question is to look at practical utility, not specific numerical thresholds
+
+2024-12-14 20:36  |  Page No.: 126
+forecasts affect the outcomes being predicted
+
+2024-12-14 20:36  |  Page No.: 126
+people can adjust their behavior
+
+2024-12-15 10:14  |  Page No.: 130
+increasing the size and granularity of the data
+
+2024-12-15 10:14  |  Page No.: 130
+need data on more humans than exist in the world
+
+2024-12-15 10:14  |  Page No.: 131
+observing the features that could enable better predictions
+
+2024-12-15 10:14  |  Page No.: 131
+features that we can never observe
+
+2024-12-15 10:15  |  Page No.: 131
+shocks that no model could predict
+
+2024-12-15 10:22  |  Page No.: 131
+feedback loops, like the amplification of small initial advantages
+
+2024-12-15 10:24  |  Page No.: 132
+In some cases, such as for cultural products, we don’t expect predictability to get much better at all. In others, such as predicting individuals’ life outcomes, there could be some improvements but not drastic changes. Unfortunately, this hasn’t stopped companies from selling AI for making consequential decisions about people by predicting their future. So, it is important to resist the AI snake oil that’s already in wide use today rather than passively hope that predictive AI technology will get better
+
+2024-12-15 10:41  |  Page No.: 137
+Attorneys facing penalties after submitting inaccurate briefs because of AI use has become a common occurrence
+
+2024-12-19 21:47  |  Page No.: 148
+Fei-Fei Li
+
+2024-12-19 21:47  |  Page No.: 148
+She reasoned that moredata would settle long-standing debates about what techniques were best for computer vision
+
+2024-12-19 21:47  |  Page No.: 148
+her ideas were scoffed at
+
+2024-12-19 22:03  |  Page No.: 153
+One downside of scraped datasets is that it is hard to manually examine them for problematic content
+
+2024-12-19 22:04  |  Page No.: 154
+benchmarking does allow rapid progress—but it is a one-dimensional kind of progress that may not represent what we want out of AI in the real world.
+
+2024-12-19 22:04  |  Page No.: 154
+most benchmarks don’t measure the extent to which models reflect cultural biases and stereotypes
+
+2024-12-19 22:04  |  Page No.: 154
+benchmark-beating models are too complex, and hence too slow and brittle to use in real apps
+
+2024-12-21 19:41  |  Page No.: 164
+if we overwhelmingly replace artists with generative AI, whose data will train the next generation of AI models
+
+2024-12-21 20:21  |  Page No.: 168
+Unlike predictive AI, which is dangerous because it doesn’t work, AI for image classification is dangerous precisely because it works so well.
+
+2024-12-21 21:02  |  Page No.: 174
+When a chatbot begins to respond to you, it has no coherent picture of the overall response it’s about to produce. 
+
+2024-12-21 21:03  |  Page No.: 175
+To generate a single token—part of a word—ChatGPT has to perform roughly a trillion arithmetic operations. 
+
+2024-12-21 21:44  |  Page No.: 182
+risks: misinformation, deepfakes, and centralization of power
+
+2024-12-21 21:47  |  Page No.: 183
+Defamation by chatbot seems to happen quite frequently, and several lawsuits are ongoing as we write this
+
+2024-12-21 22:03  |  Page No.: 185
+As language models become widespread, so will automated bullshit.
+
+2024-12-21 22:11  |  Page No.: 188
+Annotators have to deal with low pay, high workloads, and exposure to intense content day in and day out. Because of cheaper labor and fewer regulations
+
+2024-12-21 22:15  |  Page No.: 189
+recruiting prisoners, people in refugee camps, and people in collapsing economies—in other words, those who will accept this work because they have no choice
+
+2024-12-21 22:15  |  Page No.: 189
+how many people work in data annotation
+
+2024-12-21 22:15  |  Page No.: 189
+based on the size of the market and the prevailing wages, the number is almost certainly in the millions
+
+2024-12-21 22:17  |  Page No.: 189
+ nonprofit startup called Karya takes a radically different approach to data annotation
+
+2024-12-21 22:19  |  Page No.: 190
+unionization, transnational organization, and solidarity between highly paid tech workers and their lower-paid counterparts
+
+2024-12-21 22:20  |  Page No.: 191
+90 percent ofU.S.-based programmers reported using AI to aid their work
+
+2024-12-21 22:20  |  Page No.: 191
+most knowledge workers can benefit from it
+
+Taking Stock
+2024-12-22 09:42  |  Page No.: 191
+the problem of bias and offensive outputs
+
+2024-12-22 09:42  |  Page No.: 192
+doesn’t erase the underlying stereotypes and associations the models learn from the internet
+
+2024-12-22 09:43  |  Page No.: 192
+complaints that they have gone too far:that generative AI tools often deny legitimate requests in the name of safety, or that fine-tuning introduces political bias even as it curbs racial or gender bias
+
+2024-12-22 09:48  |  Page No.: 192
+fears about vote manipulation are vastly overblown. Evidence suggests that people are naturally skeptical of what they see online and are resistant to persuasion
+
+2024-12-22 09:49  |  Page No.: 193
+the problem is the opposite. The fact that just about anything online may have been AI-generated means that the internet will be seen as even less trustworthy
+
+2024-12-22 09:51  |  Page No.: 193
+the potential for accelerating addictiveness of our devices, especially in the hands of children
+
+2024-12-22 09:51  |  Page No.: 193
+most serious harm from generative AI, in our view, is the labor exploitation that is at the core of the way it is built and deployed today
+
+
+2024-12-22 14:48  |  Page No.: 195
+Mission Impossible: Dead Reckoning
+
+What Do the Experts Think?
+2024-12-22 14:58  |  Page No.: 197
+the position among many in the AI community is that AGI is an imminent existential threat requiring dramatic global action
+
+2024-12-22 14:58  |  Page No.: 197
+we will show you how this entire argument rests on a tower of fallacies
+
+2024-12-22 15:02  |  Page No.: 198
+AI researchers have often spectacularly underestimated the difficulty of achieving AI milestones.
+
+
+2024-12-24 14:54  |  Page No.: 200
+unlike self-driving cars, AGI will have to navigate not just the physical world but also the social world. This means that the views of tech experts who are notoriousfor misunderstanding the complexity of social situations should receive no special credence
+
+2024-12-24 15:02  |  Page No.: 201
+AI is not similar enough to historical precedents that it is meaningful to translate those qualitative insights into mathematical probabilities
+
+2024-12-24 15:06  |  Page No.: 202
+the history of AI reveals a gradual increase in generality
+
+2024-12-24 15:15  |  Page No.: 208
+Turing sawhis “universal computer” (rung 1) as a path to AGI,
+
+2024-12-24 15:17  |  Page No.: 209
+Our field’s history of premature, and ultimately incorrect, predictions doesn’t inspire confidence
+
+2024-12-24 15:18  |  Page No.: 209
+The general-purpose computer eliminated the need to build a new physical device every time we need to perform a new computational task; we only need to write software. Machine learning eliminated the need to write new software
+
+2024-12-24 15:18  |  Page No.: 209
+Deep learning eliminates the need to devise new learning algorithms for different datasets;
+
+2024-12-24 15:30  |  Page No.: 213
+Because of the massive cost savings that generality brings, there is a strong demand for more general methods; once such a method is invented and proves practical and cost effective, it tends to become ubiquitous quickly. This is a special case of the fact that capitalist means of production strongly gravitate toward more automation in general
+
+2024-12-24 15:34  |  Page No.: 215
+Research is certainly accelerating, but we don’t think that’s what has created the perception that AGI might be around the corner. Rather, it is the fact that consumer-facing AI has finally, after many, many decades, crossed the threshold of usefulness
+
+2024-12-24 15:40  |  Page No.: 217
+much of the most prized and valuable human knowledge comes from performing experiments on people, ranging from drug testing to tax policy. This may mean that self-improvement can’t happen in a vacuum but would require AI to interact with the social world, not just the physical one. And it’s not clear how much you can speed that up
+
+2024-12-24 15:48  |  Page No.: 221
+We should be far more concerned about whatpeople will do with AI than with what AI will do on its own
+
+2024-12-24 15:50  |  Page No.: 222
+without knowing what scientific breakthroughs are coming, there isn’t much we can usefully say about the future of AI from a technical perspective. Therefore, the alignment research we can do now with regard to a hypothetical future superintelligent agent is inherently limited
+
+2024-12-24 15:56  |  Page No.: 225
+we think the biggest risks to humanity will arise from people misusing AI, not from AI going rogue
+
+2024-12-24 16:01  |  Page No.: 227
+weaknesses in cybersecurity are an indication that we are not taking defense seriously enough. We need adequate financial investment to protect ourselves from attackers.
+
+2024-12-24 16:03  |  Page No.: 228
+Keeping AI out of bad actors’ hands won’t work. “Aligning” AI so that it refuses to help bad actors won’t work. Instead, we need to defend against specific threats. 
+
+2024-12-24 16:05  |  Page No.: 229
+reframing existing risks as AI risks would be a grave mistake, since trying to fix AI will have only a minimal impact on the real risks
+
+2024-12-24 16:10  |  Page No.: 232
+on social media, content moderation is arguably the primary product
+
+2024-12-24 16:10  |  Page No.: 232
+key to building communities is good content moderation
+
+2024-12-24 16:11  |  Page No.: 232
+It’s trauma-inducing work, done by hundreds of thousands of invisible, low-wage workers, mostly in less-affluent countries, working for third-party outsourcing firms rather than directly for platform companies
+
+2024-12-24 16:23  |  Page No.: 238
+Complex judgments about, say, the quality of art will be hard to translate into the paradigm of supervised machine learning.
+
+2024-12-26 19:02  |  Page No.: 241
+Our point is that content moderation will remain hard, no matter how much AI is used.
+
+2024-12-26 19:04  |  Page No.: 242
+in non-Western, non-English-speaking countries, the consequences are a hundred times worse
+
+2025-01-03 22:25  |  Page No.: 246
+Cultural competence is one of the key components of the Santa Clara Principles for content moderation that the major platforms have agreed to.30 Yet they are failing completely on this front.
+
+2025-01-03 22:30  |  Page No.: 249
+This section was about how AI struggles with differences across space. The next section is about how it struggles with differences over time
+
+2025-01-03 22:56  |  Page No.: 257
+algospeak: words or phrases that are widely understood and adopted by social media users as a way to avoid being mistakenly penalized by fickle content moderation algorithms. “Unalive” means dead. “SA” is sexual assault. “Corn” is porn, in the right context. You get the idea.
+
+2025-01-03 23:02  |  Page No.: 258
+Preventing suicide has long been a goal of the medical system. But it doesn’t work well: five decades of research have produced classifiers that are only slightly better than random chance
+
+2025-01-03 23:10  |  Page No.: 262
+it is possible that the number of people who face the negative consequences we described is greater than the number of people who received a successful intervention
+
+2025-01-03 23:12  |  Page No.: 263
+These hard moral questions will keep coming up. Continuing to deliberate them, engaging with the public, and exercising constant oversight and evaluation over the system are costs that can’t be automated away.
+
+2025-01-03 23:15  |  Page No.: 264
+fingerprint matching,
+
+2025-01-03 23:19  |  Page No.: 266
+There is a well-developed concept called fair use which allows for satire, commentary, and many other kinds of derivative uses. But all this is far beyond the capabilities of Content ID, and so it doesn’t try to account for fair uses of material
+
+2025-01-20 08:35  |  Page No.: 271
+a legally independent entity that Facebook funds. But it is made up of elites from a few countries, such as professors, journalists, and lawyers, rather than being truly representative.
+
+2025-01-20 08:36  |  Page No.: 272
+Google isn’t the only company shutting people out of their digital lives because it won’t hire enough people to rein in its AI. The problem is so widespread that having connections at tech companies is considered valuable social capital
+
+2025-01-20 15:19  |  Page No.: 274
+content moderation has many components, and AI has no role in most of them
+
+2025-01-20 15:19  |  Page No.: 274
+Making AI better won’t alleviate these problems
+
+2025-01-22 07:50  |  Page No.: 277
+AI is bad at context and nuance
+
+2025-01-22 07:52  |  Page No.: 277
+The fact that the world changes over time is an intrinsic barrier to the effectiveness of the AI techniques used in content moderation
+
+2025-01-22 07:56  |  Page No.: 278
+Regulation tends to result in “collateral censorship
+
+2025-01-22 08:01  |  Page No.: 279
+The real tragedy of platforms’ failures with content moderation is that the problem itself is largely of their own making. 
+
+2025-01-22 08:25  |  Page No.: 281
+content that is closer to violating content moderation policies is more likely to be engaged with. 
+
+2025-01-22 08:55  |  Page No.: 283
+There are many types of harmful content that get amplified by recommendation algorithms but can’t be dealt with by banning
+
+2025-01-22 09:11  |  Page No.: 284
+there will continue to be improvement in the “easy” part of content moderation AI—achieving parity with human content moderators. But all the hard parts will continue to be hard
+
+2025-01-22 09:11  |  Page No.: 285
+managingusers’ attempts to evade content mod eration, navigating the highly political process of making policies for hundreds of countries and cultures, and complying with regulations
+
+2025-01-22 09:17  |  Page No.: 285
+by making moderation soexpensive, the law will force platforms to moderate less
+
+2025-01-22 09:17  |  Page No.: 285
+policymakers should recognize that flawed individual decisions made using AI aren’t the problem so much as a symptom of deeper, underlying structural issues
+
+2025-01-22 09:32  |  Page No.: 288
+When content moderation AI is portrayed as a solution to the moral and political dilemmas of social media rather than merely a way for companies to save money, it becomes a form of snake oil.
+
+2025-01-22 09:37  |  Page No.: 292
+October 2022, Epic stopped selling its one-size-fits-all sepsis prediction model. Instead, it asked hospitals to train the model on their own patient data before using it for sepsis prediction
+
+2025-01-22 09:42  |  Page No.: 294
+advertised that its AI personal assistant could schedule meetings automatically
+
+2025-01-22 09:42  |  Page No.: 294
+Live Time claimed to use AI to detect events that could harm public safety, such as active shooters. It
+
+2025-01-22 09:43  |  Page No.: 294
+reproducibility. A lot of AI research is not independently veri fied, and without oversight, researchers have incentives to exaggerate the impact of their findings to garner attention and funding.
+
+2025-01-22 09:47  |  Page No.: 297
+Unfortunately, the Gartner hype cycle is not a good way to track the adoption and usefulness of AI
+
+2025-01-22 09:48  |  Page No.: 297
+But the hype cycle has no way to account for unsuccessful technologies—there is no “failure” stage.
+
+2025-01-22 09:53  |  Page No.: 298
+similarities between AI and Web3. Both are umbrella terms. Both have been heavily funded by venture capitalists. Like AI companies, Web3 companies have generated hype and haven’t always been truthful in their claims. Like AI, the harms of crypto applications are enormous. Bitcoin mining alone consumes more energy than entire countries such as Denmark, Chile, or Finland
+
+2025-01-22 10:10  |  Page No.: 301
+AI research relies on corporate funding
+
+2025-01-22 10:06  |  Page No.: 303
+ AI research,32 which he compared to alchemy due to the lackof rigor and low standards of evidence
+
+2025-01-22 10:09  |  Page No.: 304
+AI has not even come close to replacing radiologists
+
+2025-01-22 10:11  |  Page No.: 304
+Companies Have Few Incentives for Transparency
+
+2025-01-22 10:11  |  Page No.: 304
+companies don’t make their models publicly available for scrutiny, arguing that they are trade secrets
+
+2025-01-22 11:32  |  Page No.: 307
+GPT-4 scored in the ninetieth percentile on the bar exam.43 Many took this as a sign that AI will soon be good enough to replace lawyers. But a lawyer’s job is not to answer bar exam questions all day
+
+2025-01-22 11:34  |  Page No.: 307
+professional exams, especially the bar exam, notoriously overemphasize subject-matter knowledge and underemphasize real-world skills, 
+
+2025-01-22 11:40  |  Page No.: 309
+large group of researchers tried to replicate past research in social psychology. They found that only 36 percent of published results could be replicated, despite being peer reviewed 
+
+2025-01-22 11:41  |  Page No.: 309
+reviewed four hundred papers from leading AI publications to ascertain if they containenough detail to be reproducible by an independent researcher. They found that none of the four hundred papers satisfied all of the criteria (such as sharing their code and data) 
+
+2025-01-22 11:46  |  Page No.: 311
+there was no shortage of errors due to leakage in AI-based science. Hundreds of papers in over a dozen scientific disciplines—including medicine, psychiatry, computer security, IT, and genomics—had all been affected by leakage
+
+The Reproducibility Crisis in AI Research
+2025-01-22 11:50  |  Page No.: 312
+AI has already led to genuine scientificadvances. For example, AI can be used to determine the structures of proteins, a task that could earlier be accomplished only by hours of human involvement in labs
+
+News Media Misleads the Public
+2025-01-22 12:13  |  Page No.: 320
+journalists often do not have the expertise to call out companies’ snake oil.
+
+Public Figures Spread AI Hype
+2025-01-22 12:20  |  Page No.: 321
+ scathing review titled “The Myth of Artificial Intelligence,”68 which points out the book’s exaggerations
+
+2025-01-22 12:22  |  Page No.: 321
+Compared to biological systems, including humans, AI is much less of a black box
+
+2025-01-22 12:23  |  Page No.: 322
+If we lack a scientific understanding of some aspects of AI, it’s because we’ve invested too little in researching it compared to the investment in building AI
+
+2025-01-22 12:23  |  Page No.: 322
+Describing AI as unknowable reduces our agency by positioning AI as something that we can never understand and therefore never challenge
+
+2025-01-22 12:25  |  Page No.: 322
+criti-hype—criticism that ends up portraying technology as all powerful instead of calling out its limitations
+
+2025-01-22 12:29  |  Page No.: 323
+raised alarm about many AI risks. Unfortunately, in each case, the letter presented a speculative, futuristic risk, ignoring the version of the problem that is already harming people
+
+Cognitive Biases Lead Us Astray
+2025-01-22 12:32  |  Page No.: 324
+We recognize the need to think about the long-term impact of AI. But these worries have diverted resources from real, pressing AI risks
+
+1. Where Do We Go from Here?
+2025-01-22 13:17  |  Page No.: 330
+AI will become a part of our digital infrastructure, instead of being a tool people use for specific purposes.
+
+2025-01-22 13:18  |  Page No.: 330
+generative AI will shift to the background, as a medium for a large amount of knowledge work
+
+AI Snake Oil Is Appealing to Broken Institutions
+2025-01-22 13:26  |  Page No.: 333
+the supply of snake oil comes from companies that want to sell predictive AI, researchers who want to publish flashy results, and journalists and public figures who make sensationalist claims to grab people’s attention
+
+2025-01-22 13:27  |  Page No.: 333
+The demand for AI snake oil here isn’t primarily about AI—it’s about misguided incentives in the failing institutions that adopt them
+
+2025-01-22 13:31  |  Page No.: 334
+Unfortunately, tools for detecting AI-generated text don’t work
+ness an explicit part of the decision-making process. All applicants who satisfy a certain basic cutoff are included in a pool, and a random draw is used to pick the ones who get in. Our
+
+Regulation: Cutting through the False Dichotomy
+2025-01-22 14:04  |  Page No.: 343
+regulation is key to making sure people and companies have the space to innovate safely.
+
+2025-01-22 14:05  |  Page No.: 343
+in many jurisdictions, the frameworks needed toregulate AI already exist
+
+2025-01-22 14:07  |  Page No.: 343
+In the United States, AI regulation is vertical. That is, instead of having a broad agency that is tasked with governing all AI products and services, federal agencies have the authority within specific sectors for regulating AI
+
+2025-01-22 14:13  |  Page No.: 345
+regulatory bodies around the world already have ways to govern AI, and work is well underway for better or more holistic regulation
+
+2025-01-22 14:13  |  Page No.: 346
+another myth about regulation is that it always lags behind the development of technology
+
+2025-01-22 14:15  |  Page No.: 346
+the flawed premise that only tech companies can understand and manage technology. But as we’ve seen throughoutthis book, the principles of AI systems being used today are simple enough to be broadly understood.
+
+2025-01-22 14:16  |  Page No.: 347
+the understaffing of tech experts in government is a real problem
+
+2025-01-22 14:16  |  Page No.: 347
+most of what is needed is the enforcement of existing regulations rather than the creation of new regulations
+
+2025-01-22 14:18  |  Page No.: 347
+The goal should not be to abandon regulation but to make it more responsive, flexible, and informed
+
+AI and the Future of Work
+2025-01-22 14:28  |  Page No.: 351
+despite the narrative of inevitability, only a quarter of businesses use cloud computing as of 2023
+
+2025-01-22 14:28  |  Page No.: 351
+Similarly, despite the promise of generative AI, the broad adoption of AI will likely take a long time. 
+
+2025-01-22 14:31  |  Page No.: 352
+Historically, it is rare for a job category to be replaced entirely by technology. Of the hundreds of occupations listed in the 1950 U.S. census, only one disappeared due to automation: elevator operator.
+
+2025-01-22 14:31  |  Page No.: 352
+Automation often decreases the number of people working in a job or sector without eliminating it, as has happened gradually with farming
+
+2025-01-22 14:34  |  Page No.: 353
+we don’t expect AI to cause sudden mass joblessness, but it will change the nature of many jobs, decrease the demand for some jobs, increase the demand for others, and even create new kinds of jobs
+
+2025-01-22 14:36  |  Page No.: 354
+Fears about technology are fears about capitalism.”46 In other words, workers aren’t afraid of technical advances themselves; rather, they are afraid of how AI would be used by employers and companies to reduce workers’ power and agency in the workplace

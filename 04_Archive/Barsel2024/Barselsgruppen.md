@@ -1,0 +1,20 @@
+- Bjarke og Malou (Balder)
+	- begge journalister på Reuters 
+	- gift samme dag som os 
+- Kristine og Julius (Rita)
+	- K er ledig journalist har tidligere arbejdet for 24syv
+	- Julius er folkeskolelærer og sanger 
+	- Er godt et år før os d. 4. Juni 2022
+- Thomas og Louise (Henk)
+	- Begge surfer 
+	- Louise arbejder hos Netflix 
+	- Thomas vil gerne læse til tømrer
+- Anton og Malene (August)
+- Louisa og [[Oliver Dehnfjeld|Oliver]] (Samuel)
+	- Valkyriegade 26, st tv
+	- L's mor er fra Ghana? 
+	- Louisa er sygeplejerske på Center for Mental Sundhed
+	- Oliver er softwareudvikler his Visma/Dinero 
+		- Skifter mæske job efter barsel til en krypto firma
+	- Samuel er født samme dag som Elias
+	- Samuel starter i Enigheden institution

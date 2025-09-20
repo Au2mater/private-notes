@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "4a81755c182ab31d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed4bb3af5f6a92a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48f3400e87c93305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Areas/Family/Sarah Balkiss.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sarah Balkiss"
+            }
+          },
+          {
+            "id": "d5a890721493f756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Archive/copilot-conversations/Act_as_a_career_coach._Provide_on_how_to_effectively@20241209_224225.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Act_as_a_career_coach._Provide_on_how_to_effectively@20241209_224225"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5a781c6b50eaeae",
+    "type": "split",
+    "children": [
+      {
+        "id": "a251062e7e656cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9646f01b5e67b36a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f055a6ebf4184164",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "azure ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f7b58b2949ada94b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cc0dae4402866fb6",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "right": {
+    "id": "3807b7b1ad4e6939",
+    "type": "split",
+    "children": [
+      {
+        "id": "c91c48b4be76e2dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "761a4ca250337c46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02_Areas/Family/Amira Balkiss.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Amira Balkiss"
+            }
+          },
+          {
+            "id": "ff0ccc74f5701fe3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Projects/2406_Jobsøgning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2406_Jobsøgning"
+            }
+          },
+          {
+            "id": "664d3c5cae395892",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bb6d57ca27651065",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journals/2025-02-16.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-02-16"
+            }
+          },
+          {
+            "id": "1b4c2485077c8784",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "2ddb5d76e11e5fad",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 685.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "d5a890721493f756",
+  "lastOpenFiles": [
+    "03_Resources/2411_Book_AISnakeOil.md",
+    "copilot-conversations/Let's_create_a_concise_presentation_for_a_group_of_stakeholder@20250324_112109.md",
+    "copilot-conversations",
+    "03_Resources/2503_Blog.md",
+    "01_Projects/2501_YearlyReview.md",
+    "02_Areas/Family/Sarah Balkiss.md",
+    "journals/2025-03-03.md",
+    "journals/2025-03-04.md",
+    "journals/2025-03-02.md",
+    "journals/2025-02.md",
+    "01_Projects/2504_Tur_Tyskland.md",
+    "journals/2025-02-16.md",
+    "01_Projects/2501_SecuringPersonalDataAccess/2501_SecuringPersonalDataAccess.md",
+    "journals/2025-02-15.md",
+    "04_Archive/03_Resources/Docker Cloud Hosting.md",
+    "journals/2025-02-14.md",
+    "journals/2025-02-12.md",
+    "journals/2025-02-13.md",
+    "journals/2024/2024-12-04.md",
+    "00_Inbox/2501_Automania.md",
+    "00_Inbox/5 ArtiFacts.md",
+    "00_Inbox/2411_Book_AISnakeOil.md",
+    "04_Archive/03_Resources/produktivitet/the-bullet-journal-method/the-bullet-journal-method.md",
+    "01_Projects/2412_Mina_KlageOperation/2412_Mina_KlageOperation.md",
+    "02_Areas/Securing Personal Data Access.md",
+    "journals/2025-01-30.md",
+    "03_Resources/24_Inventory.md",
+    "01_Projects/2411_Stillingsopslag_DigitalUdviklingskonsulent",
+    "Spaces/Home",
+    "Spaces"
+  ]
+}

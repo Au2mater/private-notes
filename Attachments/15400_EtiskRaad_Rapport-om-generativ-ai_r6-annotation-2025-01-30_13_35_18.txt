@@ -1,0 +1,422 @@
+Reading Notes | <<15400_EtiskRaad_Rapport-om-generativ-ai_r6>>2025-01-27 20:47  |  Page No.: 6
+en 
+særlig dataetisk udfordring ved offentlige myndigheders brug af generativ AI: risikoen 
+for at generativ AI laver fejl, når den skaber indhold.
+-------------------
+2025-01-29 20:28  |  Page No.: 6
+Rapporten giver derfor et overblik over de vigtigste dataetiske udfordringer (kapitel 2), og diskuterer hvordan forskellige typer udfordringer kan være særligt 
+relevante for forskellige aktører.
+-------------------
+2025-01-29 20:32  |  Page No.: 7
+Offentlige myndigheder har et særligt ansvar for at informere 
+korrekt og træffe korrekte beslutninger, som skyldes den effekt fejlagtig information 
+og fejlagtige beslutninger kan have for borgere, samfund og miljø.
+-------------------
+2025-01-29 20:33  |  Page No.: 7
+Rapporten præsenterer seks 
+forskellige brugsscenarier (kapitel 3), og diskuterer hvordan risikoen for fejl varierer i 
+de forskellige scenarier.
+-------------------
+2025-01-29 20:33  |  Page No.: 7
+Rapporten sammenfatter de mest almindelige anbefalinger 
+fra en række danske og internationale retningslinjer (kapitel 4), og diskuterer styrker 
+og svagheder ved disse retningslinjer.
+-------------------
+2025-01-29 20:37  |  Page No.: 7
+Ofte er den bedste metode at udføre menneskelige test, 
+hvor medarbejdere vurderer mange eksempler på indhold skabt med generativ AI.
+-------------------
+2025-01-30 09:15  |  Page No.: 8
+Regeringen bør
+【Note】regeringen bør tiltrækkelig ressourcer til instanser som skal vejlede om lov eller håndhæve loven så det er priportionelt med den stigende brug og interesde for teknologien
+-------------------
+2025-01-29 20:46  |  Page No.: 8
+3. Offentlige myndigheder bør systematisk vurdere GenAI-systemers 
+samlede risikoprofil for fejl i hvert enkelt brugsscenarie.
+4. Offentlige myndigheder bør gennemføre mere omfattende kvalitetssikring af et GenAI-system, jo højere systemets risikoprofil er.
+5. Offentlige myndigheder bør oplyse, hvordan de anvender menneskelig kvalitetskontrol af GenAI, og tildele relevante medarbejdere de 
+nødvendige ressourcer. 
+6. Offentlige myndigheder bør indføre nødvendige forholdsregler til at 
+identificere, dokumentere, oplyse og korrigere fejl, inden de tager et 
+GenAI-system i brug.
+-------------------
+2025-01-29 20:45  |  Page No.: 8
+1. Offentlige myndigheder bør begynde eventuel udforskning og anvendelse af GenAI med brugsscenarier, hvor anvendelsen har lav risikoprofil, og inddrage interessenter i udvikling og evaluering af systemer. 
+2. Offentlige myndigheder bør skelne mellem GenAI-systemer med høj 
+og lav risikoprofil, og kun bruge GenAI, når myndigheden har indført 
+tilstrækkelige mitigerende tiltag til at begrænse risikoen for fejl.
+-------------------
+2025-01-29 21:07  |  Page No.: 17
+denne rapport anvender Dataetisk Råd en bred og letforståelig 
+definition af kunstig intelligens, som et computersystem, der løser en kompleks opgave, det ellers ville kræve menneskelig intelligens at løse.
+-------------------
+2025-01-29 21:21  |  Page No.: 24
+Fordi en LLM ikke forstår hvad en tekst betyder, kan den heller ikke skelne mellem, 
+om en tekst er faktuelt korrekt eller faktuelt 
+forkert.
+-------------------
+2025-01-29 21:25  |  Page No.: 25
+indholdshegn” (eng. ”guardrails”)
+-------------------
+2025-01-29 21:31  |  Page No.: 28
+Generelle dataetiske udfordringer i udvikling og anvendelse af GenAI
+Udfordringer i 
+anvendelsen af GenAI
+Udfordringer med 
+potentiale for misbrug af 
+GenAI
+Udfordringer ved træning 
+og bredere effekter af 
+GenAI
+Fejl og hallucinationer Misinformation Brud på intellektuel 
+ejendomsret
+Algoritmisk bias Deep fakes Miljøpåvirkning
+Læk af private data Manipulation Udbyttende 
+arbejdspraksisser
+Diffus ansvarlighed Spredning af farlig 
+information
+Forstærkede techoligopoler
+Uigennemsigtighed Forklædning af AIgenereret indhold
+Forskydninger på arbejdsmarkedet
+Eksistentielle risici ved AGI
+Mistillid
+-------------------
+2025-01-29 21:39  |  Page No.: 29
+2.1. Udfordringer i anvendelse af generativ AI
+【Note】Det er primært udfordringer nævnt i denne kapitel der er relevante for os
+-------------------
+2025-01-29 21:39  |  Page No.: 29
+Fejl og hallucinationer:
+-------------------
+2025-01-29 21:39  |  Page No.: 29
+Algoritmisk bias:
+-------------------
+2025-01-29 21:34  |  Page No.: 29
+at producere indhold af højere kvalitet for brugere, hvis data er overrepræsenteret i 
+træningen,
+-------------------
+2025-01-29 21:39  |  Page No.: 29
+Læk af private data:
+-------------------
+2025-01-29 21:37  |  Page No.: 30
+Diffus ansvarlighed:
+-------------------
+2025-01-29 21:37  |  Page No.: 30
+ansvarlige, for de udfordringer en 
+GenAI model rejser, for eksempel hvis den begår fejl, og at der kan opstå en uheldig 
+incitamentstruktur, hvor ingen føler sig forpligtede til at forebygge fejl eller skader.
+-------------------
+2025-01-29 21:44  |  Page No.: 32
+2.3. Udfordringer ved bredere 
+effekter af generativ AI
+【Note】Relevant ift valg af udbyder (arbejdsforhold) open source(ejendomsret) samt brug af mindre modeller fremfor store (miljø)
+-------------------
+2025-01-30 08:10  |  Page No.: 33
+Forstærkede tech-oligopoler:
+【Note】Dett e passer sammen med en anbefaling om brug af open source modeller, model  og cloud agnostiske løsninger , samt mindre modeller hvis muligt.
+-------------------
+2025-01-29 21:51  |  Page No.: 34
+en LLM som trækkes af markedet,
+【Note】En anden konsekvens ved closed source modeller der kan trækkes fra markedet er reproducerbarhed. Vi kan altså i fremtiden ikke genskabe indholdet via samme software. Aktindsigt?
+-------------------
+2025-01-29 21:53  |  Page No.: 35
+udfordringer, som knytter sig til 
+selve anvendelsen af GenAI, herunder risiko for fejl, bias, og læk af private data.
+-------------------
+2025-01-29 21:55  |  Page No.: 36
+det ikke er 
+lovpligtigt for offentlige myndigheder at oplyse om dette, ligesom der ikke findes en 
+myndighed med ansvar for at skabe og løbende opdatere en sådan oversigt.
+-------------------
+2025-01-29 21:56  |  Page No.: 37
+69 ud af de 98 kommuner per sommeren 
+2024 arbejdede med GenAI i en eller anden form
+-------------------
+2025-01-29 21:57  |  Page No.: 37
+AI landkort.
+-------------------
+2025-01-30 08:01  |  Page No.: 40
+seks forskellige brugsscenarier: 
+• Ide-generation 
+• Tekstredigering 
+• Udkast til brugerdefineret tekst 
+• Informationssøgning 
+• Opsummering af materiale 
+• Vurdering af sagsforhold
+【Note】Der er et implicit fokus på LLMer her, måske det skal være eksplicit.
+-------------------
+2025-01-30 08:40  |  Page No.: 41
+rejser idegeneration ofte relativt beskedne 
+dataetiske udfordringer.
+-------------------
+2025-01-30 08:41  |  Page No.: 41
+bruge GenAI i et 
+lukket miljø, hvor data i brugerprompt ikke deles med andre, herunder udvikleren af 
+GenAI.
+-------------------
+2025-01-30 08:48  |  Page No.: 42
+også være risiko for fejl, i den forstand, 
+at de foreslåede ændringer er sprogligt forkerte, eller ændrer vigtige betydninger i 
+teksten. I
+-------------------
+2025-01-30 08:48  |  Page No.: 42
+den menneskelige forfatter mulighed for at undgå fejl, 
+ved at undlade at anvende de foreslåede ændringer.
+【Note】mangler scenariet hvor kildeteksten er svært tilgæbgelig for læseren og ligeledes overvejelser  om automatiseringsbias særligt. Særligt ved resumeer er risikoen større jo større kildeteksten er, jo mindre mulighed slutbrugeren har for gennemlæse kildeteksten og revidere referatet, og hvis referatet skal bruges til at træffe afgørende beslutninger.
+-------------------
+2025-01-30 09:27  |  Page No.: 44
+Disse risici kan begrænses ved at træne medarbejdere, 
+og arbejde i et sikkert miljø.
+-------------------
+2025-01-30 09:28  |  Page No.: 44
+begrænse GenAIs kreativitet når den genererer svar.
+-------------------
+2025-01-30 10:50  |  Page No.: 45
+Opsummering af materiale
+【Note】tidligere kommentar om referater hører bedre hertil
+-------------------
+2025-01-30 10:51  |  Page No.: 45
+afhænge af, hvilket materiale det er, som bliver opsummeret, og hvordan resuméet 
+anvendes, herunder hvilke muligheder medarbejdere eller borgere har for at vurdere,
+-------------------
+2025-01-30 10:52  |  Page No.: 46
+om resuméet er fejlbehæftet.
+-------------------
+2025-01-30 10:53  |  Page No.: 46
+Af samme grund anvender offentlige myndigheder i de eksempler, som Dataetisk 
+Råd er bekendt med, kun GenAI til opsummering af materiale i lukkede miljøer, hvor det 
+teknisk kan garanteres, at de data brugeren deler med GenAI, ikke bliver tilgængelige 
+udenfor myndigheden.
+【Note】er roborefs løsning hostet på vores egen azure tenant. og betragter etisl råd en azure tenant som et lukket miljø?
+-------------------
+2025-01-30 10:55  |  Page No.: 46
+resuméer 
+skabt med GenAI kan indeholde forkert information, såkaldte hallucinationer, udelade 
+relevant information, og præsentere information på uhensigtsmæssige måder, for 
+eksempel ved at give resuméet en struktur der indikerer, at der bør lægges meget 
+vægt på visse informationer, når disse informationer ret beset er mindre vigtige.
+-------------------
+2025-01-30 10:56  |  Page No.: 46
+på et overordnet niveau betragter Dataetisk Råd 
+brug af GenAI til opsummering af materiale som den dataetisk set mest udfordrende 
+anvendelse af GenAI ved offentlige myndigheder i Danmark i dag.
+【Note】det er en meget relevant og tydelig vurdering! #roboref
+-------------------
+2025-01-30 11:03  |  Page No.: 46
+Når GenAI anvendes til at opsummere materiale vil det ofte være en fordel at udvikle 
+en specialiseret GenAI-løsning, for eksempel ved at fintune en model
+-------------------
+2025-01-30 11:07  |  Page No.: 47
+Vurdering af sagsforhold er antageligt den mest kontroversielle måde, offentlige 
+myndigheder kunne anvende GenAI.
+-------------------
+2025-01-30 11:07  |  Page No.: 47
+afgørende indflydelse på borgeres liv. Det er derfor vigtigt at 
+gøre opmærksom på, at Dataetisk Råd ikke er bekendt med eksempler på, offentlige 
+myndigheder i Danmark, som anvender GenAI til at vurdere sagsforhold eller automatiserede beslutninger.
+-------------------
+2025-01-30 11:09  |  Page No.: 48
+KLs ”Guide om offentligt tilgængelige tjenester med generativ AI”.39
+• Digitaliseringsstyrelsens ”Guide til offentlige myndigheder om ansvarlig 
+anvendelse af generativ kunstig intelligens”.40
+• Datatilsynets vejledning om ”Offentlige myndigheders brug af kunstig 
+intelligens”.41
+• Århus kommunes seks principper i rapporten ”Kunstig intelligens fornyer 
+velfærden”.42
+• Det norske forbrugerråds rapport og anbefalinger ”Ghost in the Machine”. 43
+• Det franske dataetiske råds (CNPEN) udtalelse ”Systemès d’intelligence 
+artificielle générative”
+-------------------
+2025-01-30 11:11  |  Page No.: 49
+Deklaration af brug
+• Menneskelig kvalitetssikring
+• Beskyttelse af følsomme data i prompting
+• Identifikation af bias
+• Forsigtighed ved brug af automatiserede beslutninger
+【Note】Anbefalinger i etisk brug af genAi i offentlige myndigheder
+-------------------
+2025-01-30 11:12  |  Page No.: 49
+nogle situationer kan forekomme 
+utilstrækkeligt, alene at informere om at GenAI anvendes.
+【Note】begrænsning ved deklaration af brug
+-------------------
+2025-01-30 11:13  |  Page No.: 49
+Anbefalingen kan gøre det 
+nødvendigt, at medarbejdere ved myndigheden trænes i at opdage de fejl, som karakteriserer GenAI-indhold, samt at medarbejdere får de nødvendige ressourcer, til 
+at udføre effektiv kontrol med GenAI-indhold.
+【Note】om menneskelig kvalitetskontrol af ai generet indhold feks resumeer
+-------------------
+2025-01-30 11:15  |  Page No.: 50
+visse typer fejl, som er lettest både 
+at opdage og håndtere ved systematisk, statistisk analyse af et GenAI-system.
+-------------------
+2025-01-30 11:18  |  Page No.: 51
+mange tilfælde vil det fortrinsvis være 
+muligt at identificere bias ved statistiske analyser af store sæt genereret indhold, og 
+vanskeligt for den enkelte medarbejder at kontrollere indhold for bias.
+-------------------
+2025-01-30 11:27  |  Page No.: 54
+resuméer af tekst kan fejle både ved at udelade relevant information, ved at fremstille information misvisende, og ved at inkludere information, som 
+ikke findes i originalteksten.
+-------------------
+2025-01-30 12:27  |  Page No.: 58
+De 
+bedste modeller i 2024 vurderes i standardtests med HHEM at have en risiko for fejl i 
+resuméer på ca. 1-4%
+【Note】En relevant begrænsning ved disse benchmarks er at det er tvivlsomt  hvor godt de generaliser til dansk tekst, herunder transskriberet tekst og domæne specfik sprog som bruges i komunnen.
+darasætne er  primært epå engelsk og på domæner som adskiller fra mange kommunale sammenhænge. 
+-------------------
+2025-01-30 12:36  |  Page No.: 59
+mennesker har mulighed for 
+at opdage og korrigere eventuelle
+【Note】anbegaling om oblugatoridk træning af medatbejder der håbdterer genereret indhold
+-------------------
+2025-01-30 12:38  |  Page No.: 59
+borgere, der ikke kan forventes, at være opmærksomme på risikoen, eller have kompetencer til kritisk at vurdere den information, som de modtager fra en GenAI.
+-------------------
+2025-01-30 12:38  |  Page No.: 59
+hvis medarbejdere 
+anvender GenAI, men ikke har ressourcer til at kontrollere kvaliteten.
+-------------------
+2025-01-30 12:38  |  Page No.: 59
+hvis medarbejdere udvikler automatiseringsbias.
+-------------------
+2025-01-30 12:41  |  Page No.: 60
+hvilken type beslutninger, systemet påvirker.
+-------------------
+2025-01-30 12:42  |  Page No.: 60
+hvor mange fejl man bør tillade, når offentlige 
+myndigheder anvender GenAI. Dette principielle spørgsmål behandles ikke i eksisterende dataetiske retningslinjer (se kapitel 4). Dataetisk Råd betragter det som et kernespørgsmål
+-------------------
+2025-01-30 12:42  |  Page No.: 60
+GenAI risikoprofil for fejl
+Hvad er risikoen for 
+hver af de forskellige 
+typer fejl, som GenAI 
+kan lave i det aktuelle 
+brugsscenarie?
+Hvad er sandsynligheden for, at 
+mennesker opdager og retter fejl?
+Hvilken 
+indflydelse har fejl 
+på menneskelige 
+beslutninger?
+Hvilke 
+beslutninger 
+påvirkes af fejl?
+-------------------
+2025-01-30 13:00  |  Page No.: 66
+Uanset hvad vil offentlige 
+myndigheder i arbejdet med GenAI være nødt til at tage stilling til spørgsmålet om, 
+hvor mange fejl et system må lave.
+-------------------
+2025-01-30 13:09  |  Page No.: 70
+BERTScore er således fortrinsvis en måling af, om resuméet 
+indeholder tekstelementer, som slet ikke findes i originalteksten, og som derfor sandsynligvis er en hallucination.
+-------------------
+2025-01-30 13:11  |  Page No.: 70
+Testresultater kan være svære at generalisere
+【Note】som nævnt tidligere men uden konkret at nævne sprog
+-------------------
+2025-01-30 13:12  |  Page No.: 71
+De bedste modeller i 2024 har en samlet score på ca.75-77, hvilket 
+indikerer, at de succesfuldt identificerer ca. tre ud af fire hallucinationer i GenAI-indhold.
+-------------------
+2025-01-30 13:16  |  Page No.: 71
+Menneskelig kvalitetssikring betragtes fortsat som ”guldstandarden”, som standardiserede tests måles imod, og forsøger at tilnærme sig. Menneskelige vurderinger 
+kan for eksempel være:
+• Menneskelig scoring af GenAI-indhold. 
+• Parvis sammenligning af menneskeskabt og GenAI-indhold. 
+• ”Red teaming”. 
+-------------------
+2025-01-30 13:18  |  Page No.: 74
+ afveje hensynet til bedre kvalitetssikring, mod de ressourcer det kræver, at 
+foretage en mere grundig vurdering. 
+-------------------
+2025-01-30 13:21  |  Page No.: 78
+Dataetisk Råd støtter udforskning af disse potentialer i 
+brugsscenarier, hvor offentlige myndigheder kan realisere gevinster for borgere og 
+medarbejdere.
+-------------------
+2025-01-30 13:21  |  Page No.: 78
+GenAI kan have negative konsekvenser for mennesker, miljø og samfund.
+-------------------
+2025-01-30 13:21  |  Page No.: 78
+risiko for fejl, bias 
+og læk af følsomme data, miljøpåvirkning ved udvikling og anvendelse af GenAI, krænkelse af intellektuel ejendomsret ved træning af GenAI, og styrkelse af tech-oligopoler
+-------------------
+2025-01-30 13:22  |  Page No.: 79
+myndigheders ansvar for at formidle korrekt information, og for 
+at træffe korrekte beslutninger i sager der berører borgere, både af hensyn til den 
+enkelte borger, og af hensyn til den værdifulde tillid, som danskere har til offentlige 
+myndigheder.
+-------------------
+2025-01-30 13:23  |  Page No.: 79
+rådet vurderer, at teknologien har potentiale 
+til at realisere vigtige gevinster for borgerne, og fordi det er rådets opfattelse, at dette 
+arbejde er en uundgåelig del af en nødvendig læreproces i den offentlige sektor.
+-------------------
+2025-01-30 13:23  |  Page No.: 80
+Når en offentlig myndighed går i gang med at udforske og anvende 
+GenAI, bør myndigheden fokusere på de brugsscenarier, hvor man kan udforske og 
+afprøve teknologien med lavest mulig risiko for borgere og medarbejdere.
+-------------------
+2025-01-30 13:25  |  Page No.: 80
+Risikoen for fejl er den måske mest alvorlige dataetiske udfordring ved offentlige myndigheders brug af GenAI.
+-------------------
+2025-01-30 13:26  |  Page No.: 81
+Vi forventer med rette, at offentlige myndigheder gør sig 
+store anstrengelser for at undgå fejl.
+-------------------
+2025-01-30 13:31  |  Page No.: 81
+2
+Offentlige myndigheder bør skelne 
+mellem GenAI-systemer med høj 
+og lav risikoprofil, og kun bruge 
+GenAI, når myndigheden har indført 
+tilstrækkelige mitigerende tiltag til 
+at begrænse risikoen for fejl.
+-------------------
+2025-01-30 13:30  |  Page No.: 82
+ 3
+Offentlige myndigheder bør systematisk vurdere GenAI-systemers 
+samlede risikoprofil for fejl i hvert 
+enkelt brugsscenarie
+-------------------
+2025-01-30 13:31  |  Page No.: 83
+4
+Offentlige myndigheder bør 
+gennemføre mere omfattende 
+kvalitetssikring af et GenAI-system, jo højere systemets øvrige 
+risikoprofil er.
+-------------------
+2025-01-30 13:31  |  Page No.: 83
+5
+Offentlige myndigheder bør oplyse, hvordan de anvender menneskelig kvalitetskontrol af GenAI, 
+og tildele relevante medarbejdere 
+de nødvendige ressourcer.
+-------------------
+2025-01-30 13:32  |  Page No.: 84
+den enkelte myndighed unødigt bruger ressourcer på at foretage vanskelige dataetiske 
+vurderinger, som kunne gennemføres mere effektivt og med større effekt kollektivt.
+-------------------
+2025-01-30 13:31  |  Page No.: 84
+6
+Offentlige myndigheder bør 
+indføre nødvendige forholdsregler 
+til at identificere, dokumentere, 
+oplyse og korrigere fejl inden, de 
+tager et GenAI-system i brug.
+-------------------
+2025-01-30 13:33  |  Page No.: 85
+7
+Regeringen bør udvikle fælles retningslinjer for offentlige myndigheders anvendelse af GenAI, som 
+slår fast, hvordan myndigheder 
+skal håndtere risikoen for fejl.
+-------------------
+2025-01-30 13:34  |  Page No.: 86
+8
+Regeringen bør oprette et nationalt, offentligt register over 
+GenAI-systemer, som anvendes af 
+offentlige myndigheder.
+-------------------

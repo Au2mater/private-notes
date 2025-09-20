@@ -1,0 +1,5 @@
+- komme ud hver dag
+- være fysisk aktiv
+- mødes med venner ugentligt
+- mødes med familie ugentligt 
+- kvalitetstid med Caroline
