@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/2603_RejseJapanSydKorea.md",
+                "file": "journals/2025-09-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2603_RejseJapanSydKorea"
+              "title": "2025-09-20"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vscode git",
+                "query": "crlf",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -226,8 +227,9 @@
   },
   "active": "ef69b3b3e6898ba6",
   "lastOpenFiles": [
-    "00_Inbox/Japanske spiseteder.md",
     "01_Projects/2603_RejseJapanSydKorea.md",
+    "01_Projects/01_Projects.md",
+    "00_Inbox/Japanske spiseteder.md",
     "journals/2025-10-10.md",
     "00_Inbox/Droids Agency.md",
     "01_Projects/2510_Køb_balkiss.dk.md",
@@ -252,7 +254,6 @@
     "copilot-custom-prompts",
     "journals/2025-10-03.md",
     "00_Inbox/00_Inbox.md",
-    "04_Archive/01_Projects/2509_EliasMosaikkenStart.md",
     "journals/2025-09-09.md.2025-09-09_09.00.19.foldersync.old",
     "journals/2025-06-16.md.2025-06-16_18.30.18.foldersync.old",
     "03_Resources/2505_WordProcessing_Reimagined",
