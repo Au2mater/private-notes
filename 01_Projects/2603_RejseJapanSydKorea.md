@@ -1,5 +1,9 @@
 Rejse til Japan og SydKorea i forår 2026 23. Mar -> 15. april
 
+
+
+## Links 
+* [[Japanske spiseteder]]
 * [[#Flybilletter - Ud og hjemrejse]]
 * [[#Flybilletter Osaka -> Seoul]]
 
@@ -26,7 +30,6 @@ Here are the distinct titles with duplicates removed, formatted as requested:
 - Miniature museum 
 - Teamlab: neon lys interaktiv installation 
 - Ueno park 
-- 
 ### Kyoto - 3 dage
 - Måske leje 
 

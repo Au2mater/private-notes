@@ -1,2 +1,0 @@
-## Status
-* 2025-03-25 Fik konstateret [Achillessenebetændelse ved fæstet på hælknoglen](https://sportnetdoc.dk/skader/achillessenebetaendelse-ved-faestet-pa-haelknoglen/) og blev anbefalet at følge [genoptræningsprogram](https://sportnetdoc.dk/genoptr%C3%A6ningsprogram/achillessenebetaendelse-ved-faestet-pa-haelknoglen-trin-1/)

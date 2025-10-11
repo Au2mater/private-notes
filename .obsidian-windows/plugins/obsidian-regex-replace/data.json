@@ -1,6 +1,6 @@
 {
-  "findText": "2508_AITolk_SSH",
-  "replaceText": "2508_AITolk_Simply",
+  "findText": "\\n\\n",
+  "replaceText": "\n",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

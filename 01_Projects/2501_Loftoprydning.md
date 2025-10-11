@@ -2,6 +2,7 @@ Tøm gammel loftrum og organiser alle loftsejendele i det nye loftrum på hylder
 
 ## Status
 * Afventer Kasper
+* 2025-10-07 Bestyrelsen har nu bestilt en håndværker til at kigge på loftsrummene 
 - [[2025-02-22]] ingen af de andre loftsrum var brugbare, de havde alle vandskade eller ingen vindue 
 	- aftalte med Kasper at de bestiller renovation af vindue og gulv til vores loftsrum såvel som de andre
 - 2025-02-10 Tid til at kigge på nye loftsrum 2025-02-22

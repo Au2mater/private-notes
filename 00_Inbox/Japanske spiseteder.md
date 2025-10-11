@@ -1,0 +1,4 @@
+* ”**Izakaya**” er et spisested, hvor man kan drikke og spise samtidigt – lidt som en spansk ==tapas-bar==. 
+* **”Kaiseki**”- restaurant er et sted, hvor der serveres ==7-9-retters== traditionelle menuer, som er meget æstetisk og sæsonbestemt smagssammensat. 
+* ***”Sukiyaki-”, ”Shiyabu Shiyabu-” og ”Yakiniku”**- restauranter serverer japansk ==luksus oksekød== kogt i en stor gryde eller grillet. Kødet er tilberedt på forskellige måder (hhv. simret, kogt, eller stegt). Man bestiller en gryde og deler sin gryde med dem, som man spiser sammen med.
+* **”Ramen”, ”Okonomiyaki” ”Yakitori” og ”Udon/Soba nudler”** spises ofte bedst på uformelle frokoststeder, små natmads bikse eller gadekøkken-restauranter.

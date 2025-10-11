@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5771dfc5e2c1180b",
+        "id": "610d2fbbd88f6895",
         "type": "tabs",
         "children": [
           {
-            "id": "19d6262f32a666b4",
+            "id": "ef69b3b3e6898ba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025-09-19.md",
+                "file": "01_Projects/2603_RejseJapanSydKorea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-19"
-            }
-          },
-          {
-            "id": "0ba5b12650f9ace4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/2509 MeningspunktetTolk.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2509 MeningspunktetTolk"
-            }
-          },
-          {
-            "id": "dd8df747481c299d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03_Resources/copilot-custom-prompts/prompt_engineer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "prompt_engineer"
+              "title": "2603_RejseJapanSydKorea"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "outlook",
+                "query": "vscode git",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -186,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2025-09-09.md",
+                "file": "00_Inbox/blogpost_guide_til_rolig_Elias.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-09-09"
+              "title": "Outline of blogpost_guide_til_rolig_Elias"
             }
           },
           {
@@ -235,10 +186,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "journals/2025-04-26.md"
+                "file": "04_Archive/03_Resources/Guide til rolig Elias.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-04-26"
+              "title": "File properties for Guide til rolig Elias"
             }
           },
           {
@@ -254,11 +205,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 481.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,38 +220,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "e198694298584ec6",
+  "active": "ef69b3b3e6898ba6",
   "lastOpenFiles": [
-    "03_Resources/prompt_engineering/The_AUTOMAT_Framework.md",
-    "03_Resources/copilot-custom-prompts/prompt_engineer.md",
-    "03_Resources/copilot-custom-prompts/prompt_improver.md",
-    "journals/2025-09-20.md",
-    "journals/2025-09-19.md",
-    "00_Inbox/2509 MeningspunktetTolk.md",
-    "journals/2025-09-17.md",
-    "04_Archive/01_Projects/2509_caddy_hetzner_setup.md",
-    "journals/2025-09-08.md",
-    "journals/2025-09-09.md",
-    "journals/2025-09-01.md",
-    "03_Resources/Atom vaner.md",
-    "01_Projects/2508_Opsigelse.md",
-    "01_Projects/2508_FjeldmannStartup.md",
-    "04_Archive/01_Projects/250515_ApproveMe_Flow_ChatGPT.md",
-    "00_Inbox/2509_AITolk_Fond_Innofounder.md",
-    "journals/2025-09-09.md.2025-09-09_09.00.19.foldersync.old",
-    "journals/2025-09-07.md",
+    "00_Inbox/Japanske spiseteder.md",
+    "01_Projects/2603_RejseJapanSydKorea.md",
+    "journals/2025-10-10.md",
+    "00_Inbox/Droids Agency.md",
+    "01_Projects/2510_Køb_balkiss.dk.md",
+    "01_Projects/2509_WebsiteAgent.md",
+    "01_Projects/2510_Ferie_Italien.md",
+    "01_Projects/2501_Loftoprydning.md",
+    "01_Projects/2503_SælgVægKunst.md",
+    "04_Archive/01_Projects/2504_Achillessenebetændelse.md",
     "01_Projects/2508_AITolkLaunch.md",
-    "journals/2025-09-05.md",
-    "journals/2025-08-29.md",
-    "journals/2025-08-30.md",
-    "journals/2025-08-26.md",
-    "journals/2025-08-28.md",
-    "journals/2025-08-23.md",
-    "journals/2025-08-25.md",
-    "journals/2025-08-22.md",
+    "01_Projects/2508_FjeldmannStartup.md",
+    "01_Projects/2508_Opsigelse.md",
+    "01_Projects/2509 MeningspunktetTolk.md",
+    "01_Projects/2511_SelvstændigKonsulent.md",
+    "01_Projects/2510_Konsulent_Leads.md",
+    "journals/2025-10-08.md",
+    "00_Inbox/2025-10-09.md",
+    "04_Archive/01_Projects/2610_Elias_Fødselsdag.md",
+    "journals/2025-09-20.md",
+    "04_Archive/03_Resources/Guide til rolig Elias.md",
+    "00_Inbox/Untitled.md",
+    "04_Archive/03_Resources/blogpost_guide_til_rolig_Elias.md",
+    "copilot-custom-prompts",
+    "journals/2025-10-03.md",
+    "00_Inbox/00_Inbox.md",
+    "04_Archive/01_Projects/2509_EliasMosaikkenStart.md",
+    "journals/2025-09-09.md.2025-09-09_09.00.19.foldersync.old",
     "journals/2025-06-16.md.2025-06-16_18.30.18.foldersync.old",
     "03_Resources/2505_WordProcessing_Reimagined",
     "journals/2025-04-23.md.2025-04-23_21.00.17.foldersync.old",
@@ -310,7 +263,6 @@
     "journals/2024",
     "04_Archive/01_Projects/2501_SecuringPersonalDataAccess",
     "02_Areas/Securing Personal Data Access",
-    "Attachments/15400_EtiskRaad_Rapport-om-generativ-ai_r6-annotation-2025-01-30_13_35_18.txt",
     "Attachments/Pasted image 20240227202303.png",
     "Attachments/Pasted image 20240227202218.png",
     "Attachments/Pasted image 20240216111544.png",
