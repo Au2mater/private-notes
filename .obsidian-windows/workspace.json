@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025-09-20.md",
+                "file": "01_Projects/2603_RejseJapanSydKorea.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-20"
+              "title": "2603_RejseJapanSydKorea"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,6 +226,8 @@
   },
   "active": "ef69b3b3e6898ba6",
   "lastOpenFiles": [
+    "journals/2025-10-11.md",
+    "journals/2025-09-20.md",
     "01_Projects/2603_RejseJapanSydKorea.md",
     "01_Projects/01_Projects.md",
     "00_Inbox/Japanske spiseteder.md",
@@ -247,13 +248,11 @@
     "journals/2025-10-08.md",
     "00_Inbox/2025-10-09.md",
     "04_Archive/01_Projects/2610_Elias_Fødselsdag.md",
-    "journals/2025-09-20.md",
     "04_Archive/03_Resources/Guide til rolig Elias.md",
     "00_Inbox/Untitled.md",
     "04_Archive/03_Resources/blogpost_guide_til_rolig_Elias.md",
     "copilot-custom-prompts",
     "journals/2025-10-03.md",
-    "00_Inbox/00_Inbox.md",
     "journals/2025-09-09.md.2025-09-09_09.00.19.foldersync.old",
     "journals/2025-06-16.md.2025-06-16_18.30.18.foldersync.old",
     "03_Resources/2505_WordProcessing_Reimagined",

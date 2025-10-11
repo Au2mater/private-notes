@@ -34,6 +34,7 @@ Here are the distinct titles with duplicates removed, formatted as requested:
 - Måske leje 
 
 ### Mt Fuji - 1 dag
+* Tur med bus fra Tokyo
 
 ### Osaka - 2 dage 
 
