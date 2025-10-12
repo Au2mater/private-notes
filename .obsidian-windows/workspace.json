@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Inbox/00_Inbox.md",
+                "file": "journals/2025-10-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00_Inbox"
+              "title": "2025-10-12"
             }
           }
         ]
@@ -227,12 +227,14 @@
   },
   "active": "ef69b3b3e6898ba6",
   "lastOpenFiles": [
+    "01_Projects/2511_CloseGoogleAccount.md",
+    "01_Projects/01_Projects.md",
     "journals/2025-10-12.md",
+    "00_Inbox/00_Inbox.md",
     "01_Projects/2603_RejseJapanSydKorea.md",
     "00_Inbox/Japan Spisesteder.md",
     "journals/2025-10-11.md",
     "journals/2025-09-20.md",
-    "01_Projects/01_Projects.md",
     "journals/2025-10-10.md",
     "00_Inbox/Droids Agency.md",
     "01_Projects/2510_Køb_balkiss.dk.md",
@@ -251,8 +253,6 @@
     "00_Inbox/2025-10-09.md",
     "04_Archive/01_Projects/2610_Elias_Fødselsdag.md",
     "04_Archive/03_Resources/Guide til rolig Elias.md",
-    "00_Inbox/Untitled.md",
-    "04_Archive/03_Resources/blogpost_guide_til_rolig_Elias.md",
     "copilot-custom-prompts",
     "journals/2025-09-09.md.2025-09-09_09.00.19.foldersync.old",
     "journals/2025-06-16.md.2025-06-16_18.30.18.foldersync.old",
