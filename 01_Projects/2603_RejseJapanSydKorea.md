@@ -1,27 +1,37 @@
 Rejse til Japan og SydKorea i forår 2026 23. Mar -> 15. april
 
-
+## Status 
+* 2025-10-11 Undersøger togbilletter i Japan og læser Hanakus anbefalinger
+* 2025-08-14 Flybilletter rundtur japan købt
 
 ## Links 
-* [[Japanske spiseteder]]
+* [[Japan Spisesteder]]
 * [[#Flybilletter - Ud og hjemrejse]]
 * [[#Flybilletter Osaka -> Seoul]]
 
-- Rute: Osaka, Kyoto, MT Fuji, Tokyo 
+- Rute:  Tokyo ,  MT Fuji, Osaka, Kyoto
 - Sakura er slut marts start april 
 - Påske er start april 
 - Kanazawa: Samurai by, tog fra Tokyo 
 - De har et rejsekort system der virker 
 
-
-## Hotel (23 nætter)
-* Tokyo [Booking.com: Hoteller i Tokyo. Book dit hotel nu!](https://www.booking.com/searchresults.da.html?label=gen173nr-10CAEoggI46AdIM1gEaD2IAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Arry-MQGwAIB0gIkNWExYzFhMTYtOWEzNy00NTcwLWJlMzYtZTNlMDJhNjBjMTQy2AIB4AIB&sid=0fa37698e0ceba4f992e4b0dd7a16468&aid=304142&ss=Tokyo&ssne=Tokyo&ssne_untouched=Tokyo&efdco=1&lang=da&src=searchresults&dest_id=-246227&dest_type=city&checkin=2026-03-24&checkout=2026-03-30&group_adults=2&no_rooms=1&group_children=1&age=2&nflt=stay_type%3D3)
 ## Flybilletter - Ud og hjemrejse 
 CPH -> Tokyo HND 23 Mar 2026   11:20 - 07:55 (12h 35m, Direct flight)
 ICN Seoul -> CPH 15 Apr 2026   23:45 - 06:05 (+1day) (13h 20m, Direct flight) 
 
 Here are the distinct titles with duplicates removed, formatted as requested:
 
+## Hotel (23 nætter)
+* Tokyo [Booking.com: Hoteller i Tokyo. Book dit hotel nu!](https://www.booking.com/searchresults.da.html?label=gen173nr-10CAEoggI46AdIM1gEaD2IAQGYATO4ARfIAQzYAQPoAQH4AQGIAgGoAgG4Arry-MQGwAIB0gIkNWExYzFhMTYtOWEzNy00NTcwLWJlMzYtZTNlMDJhNjBjMTQy2AIB4AIB&sid=0fa37698e0ceba4f992e4b0dd7a16468&aid=304142&ss=Tokyo&ssne=Tokyo&ssne_untouched=Tokyo&efdco=1&lang=da&src=searchresults&dest_id=-246227&dest_type=city&checkin=2026-03-24&checkout=2026-03-30&group_adults=2&no_rooms=1&group_children=1&age=2&nflt=stay_type%3D3)
+
+## Togbilletter
+| Trip                 | Price (DKK) | Price (JPY) | Transportation Methods                              | Tid    | Reliable Source & Booking Link                                      |
+| -------------------- | ----------- | ----------- | --------------------------------------------------- | ------ | ------------------------------------------------------------------- |
+| Tokyo to Nikko       | 136         | 3,200       | Tobu Limited Express train (Spacia/Revaty)          |        | https://www.tobu.co.jp/en/ticket/                                   |
+| Nikko to Tokyo       | 136         | 3,200       | Tobu Limited Express train (Spacia/Revaty)          |        | https://www.tobu.co.jp/en/ticket/                                   |
+| Tokyo to Kawaguchiko | 106         | 2,500       | Highway express bus (Keio, Fujikyu)                 | 1t 45m | https://highway-buses.jp/course/kawaguchiko.php                     |
+| Kawaguchiko to Kyoto | 573         | 13,500      | Highway bus to Mishima + Shinkansen (Hikari/Kodama) |        | https://highway-buses.jp/course/mishima.php+https://smart-ex.jp/en/ |
+| Kyoto to Osaka       | 123         | 2,900       | Shinkansen (Hikari/Kodama)                          |        | https://smart-ex.jp/en/                                             |
 ##  Flybilletter Osaka -> Seoul
 * 10. april
 
@@ -30,11 +40,18 @@ Here are the distinct titles with duplicates removed, formatted as requested:
 - Miniature museum 
 - Teamlab: neon lys interaktiv installation 
 - Ueno park 
-### Kyoto - 3 dage
-- Måske leje 
+### Nikko 
+* Retur togbilletter er inkluderet i [Nikko Pass](https://www.tobu.co.jp/en/ticket/nikko/city.html), men køb limited express (evt Spacia X) oveni for hurtigere transporttid og bedre benplads
+* ==Tickets may be purchased from 9:00 am of the month prior to the travel date==
+>A guided tour of the Nikko World Heritage area with a professional guide is held every Friday at 10 AM! Same-day reservations are available before the tour begins. Please see the link below for details.  
+[https://ars-tobutoptours.triplabo.jp/activity/en/LINKTIVITY-DRBUY](https://ars-tobutoptours.triplabo.jp/activity/en/LINKTIVITY-DRBUY)
 
 ### Mt Fuji - 1 dag
 * Tur med bus fra Tokyo
+
+### Kyoto - 3 dage
+- Måske leje 
+
 
 ### Osaka - 2 dage 
 
