@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025-10-13.md",
+                "file": "04_Archive/01_Projects/2509_caddy_hetzner_setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-13"
+              "title": "2509_caddy_hetzner_setup"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crlf",
+                "query": "caddy",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -84,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -227,13 +228,13 @@
   },
   "active": "ef69b3b3e6898ba6",
   "lastOpenFiles": [
+    "01_Projects/2603_RejseJapanSydKorea.md",
+    "journals/2025-10-13.md",
     "journals/2025-10-13-W11-24H2-DK-Lenovo.md",
     "journals/2025-10-12.md",
-    "journals/2025-10-13.md",
     "01_Projects/2511_CloseGoogleAccount.md",
     "01_Projects/01_Projects.md",
     "00_Inbox/00_Inbox.md",
-    "01_Projects/2603_RejseJapanSydKorea.md",
     "00_Inbox/Japan Spisesteder.md",
     "journals/2025-10-11.md",
     "journals/2025-09-20.md",
