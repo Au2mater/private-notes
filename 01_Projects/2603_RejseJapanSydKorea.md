@@ -9,7 +9,7 @@ Rejse til Japan og SydKorea i forår 2026 23. Mar -> 15. april
 * [[#Flybilletter - Ud og hjemrejse]]
 * [[#Flybilletter Osaka -> Seoul]]
 
-- Rute:  Tokyo ,  MT Fuji, Osaka, Kyoto
+- Rute:  Tokyo , Nikko Tre   nætter,  MT Fuji, Kyoto, Nara, Soeul
 - Sakura er slut marts start april 
 - Påske er start april 
 - Kanazawa: Samurai by, tog fra Tokyo 
