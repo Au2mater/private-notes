@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Archive/01_Projects/2509_caddy_hetzner_setup.md",
+                "file": "journals/2025-10-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2509_caddy_hetzner_setup"
+              "title": "2025-10-15"
             }
           }
         ]
@@ -210,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5,
-    "collapsed": true
+    "width": 481.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,6 +227,9 @@
   },
   "active": "ef69b3b3e6898ba6",
   "lastOpenFiles": [
+    "journals/2025-10-14.md",
+    "journals/2025-10-15.md",
+    "04_Archive/01_Projects/2509_caddy_hetzner_setup.md",
     "01_Projects/2603_RejseJapanSydKorea.md",
     "journals/2025-10-13.md",
     "journals/2025-10-13-W11-24H2-DK-Lenovo.md",
@@ -251,9 +253,6 @@
     "01_Projects/2508_Opsigelse.md",
     "01_Projects/2509 MeningspunktetTolk.md",
     "01_Projects/2511_SelvstændigKonsulent.md",
-    "01_Projects/2510_Konsulent_Leads.md",
-    "journals/2025-10-08.md",
-    "00_Inbox/2025-10-09.md",
     "copilot-custom-prompts",
     "journals/2025-09-09.md.2025-09-09_09.00.19.foldersync.old",
     "journals/2025-06-16.md.2025-06-16_18.30.18.foldersync.old",
