@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2025-10-15.md",
+                "file": "01_Projects/2511_SelvstændigKonsulent.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-15"
+              "title": "2511_SelvstændigKonsulent"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,8 +226,8 @@
   },
   "active": "ef69b3b3e6898ba6",
   "lastOpenFiles": [
-    "journals/2025-10-14.md",
     "journals/2025-10-15.md",
+    "journals/2025-10-14.md",
     "04_Archive/01_Projects/2509_caddy_hetzner_setup.md",
     "01_Projects/2603_RejseJapanSydKorea.md",
     "journals/2025-10-13.md",

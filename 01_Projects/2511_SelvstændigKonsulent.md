@@ -5,6 +5,7 @@ Sig op pr udgangen af oktober og bliv etableret som selvstændig konsulent
 
 ## Konsulent Leads
 
+
 1. Nadja, Rune og Marlene 
 	1. nadmaa@gladsaxe.dk
 	2. rudzgr@gladsaxe.dk
@@ -30,9 +31,11 @@ Sig op pr udgangen af oktober og bliv etableret som selvstændig konsulent
 10. Promte som Analytics underleverandør
 	1. victor@promte.dk
 	2. christian@promte.dk
+11.  Mansoft - Surf Asser har været på projekt gennem dem
+	1. [Rasmus Buch](https://www.linkedin.com/in/rasmus-buch-it-rekrutteringskonsulent?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAB1zAugBnfJ7H2QljuY_3Ln4vt2E9oxfikk) 📞 31 56 89 37 📧 [rmb@mansoft.dk](mailto:rmb@mansoft.dk)
+		* LinkedIn opslag
 ### Brokers 
 - Twoday
-- Mansoft (det er dem jeg er på projekt gennem lige pt., de er meget fornuftige synes jeg)
 - Right People Group
 ### Portaler 
 itkonsulentjobs.dk
