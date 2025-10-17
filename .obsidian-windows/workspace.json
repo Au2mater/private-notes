@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/2511_SelvstændigKonsulent.md",
+                "file": "journals/2025-10-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2511_SelvstændigKonsulent"
+              "title": "2025-10-17"
             }
           }
         ]
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481.5
+    "width": 481.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,6 +227,8 @@
   },
   "active": "ef69b3b3e6898ba6",
   "lastOpenFiles": [
+    "01_Projects/2511_SelvstændigKonsulent.md",
+    "journals/2025-10-17.md",
     "journals/2025-10-15.md",
     "journals/2025-10-14.md",
     "04_Archive/01_Projects/2509_caddy_hetzner_setup.md",
@@ -250,8 +253,6 @@
     "01_Projects/2508_AITolkLaunch.md",
     "01_Projects/2508_FjeldmannStartup.md",
     "01_Projects/2508_Opsigelse.md",
-    "01_Projects/2509 MeningspunktetTolk.md",
-    "01_Projects/2511_SelvstændigKonsulent.md",
     "copilot-custom-prompts",
     "journals/2025-09-09.md.2025-09-09_09.00.19.foldersync.old",
     "journals/2025-06-16.md.2025-06-16_18.30.18.foldersync.old",
